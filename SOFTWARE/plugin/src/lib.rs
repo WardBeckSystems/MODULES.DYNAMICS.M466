@@ -126,6 +126,25 @@ mod plugin {
                 ds_hz: self.ds_freq.value(),
             }
         }
+
+        /// The same settings from plain parameter values looked up by parameter id (bool 0 / 1, int and enum as
+        /// their index): how a host outside nih-plug (the Pro Tools build) drives the DSP.
+        pub fn settings_from(v: &dyn Fn(&str) -> f32) -> Settings {
+            Settings {
+                insert: (v("ins") > 0.5),
+                comp: (v("comp") > 0.5),
+                lim: (v("lim") > 0.5),
+                de_ess: (v("ds") > 0.5),
+                meter_vu: (v("grvu") > 0.5),
+                sens_db: v("sens"),
+                comp_thld_db: v("cthld"),
+                slope: SLOPES[(v("slope").round() as i32).clamp(0, 4) as usize],
+                comp_rls_s: v("crls"),
+                lim_thld_db: v("lthld"),
+                lim_rls_s: v("lrls"),
+                ds_hz: v("dsng"),
+            }
+        }
     }
 
     pub struct M466Plugin {
@@ -199,6 +218,22 @@ mod plugin {
     impl Vst3Plugin for M466Plugin {
         const VST3_CLASS_ID: [u8; 16] = *b"WBS-M466-CmpLim1";
         const VST3_SUBCATEGORIES: &'static [Vst3SubCategory] = &[Vst3SubCategory::Fx, Vst3SubCategory::Dynamics];
+    }
+
+    #[cfg(test)]
+    mod settings_from_tests {
+        use super::*;
+
+        #[test]
+        fn settings_from_matches_settings() {
+            let p = M466Params::default();
+            let map = p.param_map();
+            let v = |id: &str| {
+                let (_, ptr, _) = map.iter().find(|(i, _, _)| i == id).expect(id);
+                unsafe { ptr.unmodulated_plain_value() }
+            };
+            assert_eq!(format!("{:?}", M466Params::settings_from(&v)), format!("{:?}", p.settings()));
+        }
     }
 
     nih_export_clap!(M466Plugin);
