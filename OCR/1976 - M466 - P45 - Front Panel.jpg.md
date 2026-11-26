@@ -11,6 +11,19 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Size:** 388,057 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 316 × 432 mm, 1463 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–316 mm across, 1–323 mm up
+- **Outlines:** line 285 rings, 2,603 straight (5,067 mm) / 631 curved (827 mm); text 1,915 rings, 10,672 straight (9,350 mm) / 4,071 curved (5,171 mm); tb 651 rings, 5,346 straight (9,251 mm) / 1,318 curved (1,816 mm)
+- **Centre lines:** 14,261 paths (524 closed); straight 15,237 mm, curved 51.2 mm; horizontal 4,492 mm, vertical 3,469 mm, diagonal 7,276 mm
+- **Circles and arcs:** 3 circles, 15 arcs; largest r 1.1 @ (34.7, 197.0), r 1.0 @ (30.4, 142.4), r 0.9 @ (55.0, 224.5)
+- **Closed boxes:** 8; named: INDICA TORS= Green indicates LEd low LED; licit threshold with reference sett ther; switch SH}: IhIT INSERT Activates imi rc; freque= DE-ESS switch Shg nserts iab le ; ieves Swg: ATlows tch cither candard rea; COMPRESSOR   THRESHOLD switch Sets Kith ; COMPRESSOR switch SwZ: Activates and ass; INSERT Hhen depressed this imiter / swit
+- **Words (OCR):** 319 in 202 lines: INDICA TORS= Green LEd · low LED indicates · indicates · 12dB peak · Peak · imiting (12 dB overica · WBS · M466 · threshold with reference · licit · sensitivity switch ShI: · Aows selection
+- **Title block:** (56, 0)–(316, 324) mm: low LED indicates · indicates · imiting (12 dB overica · WBS · M466 · licit · sensitivity switch ShI: · Aows selection · teps _ · thereby · tne · reference operating Ieve · headroom · Limit · entire ·
+
+Every curve, box, word and wire group: [1976 - M466 - P45 - Front Panel (traced).json](../MECHANICAL/1976%20-%20M466%20-%20P45%20-%20Front%20Panel%20%28traced%29.json) (the CAD file: `1976 - M466 - P45 - Front Panel (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 24 words corrected)

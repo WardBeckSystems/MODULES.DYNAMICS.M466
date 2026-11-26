@@ -11,6 +11,20 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Size:** 739,265 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 282 mm, 2000 × 1307 px traced (0.216 mm/px)
+- **Ink extent:** 1–432 mm across, 0–280 mm up
+- **Outlines:** line 2,093 rings, 20,602 straight (30,421 mm) / 4,588 curved (5,568 mm); text 331 rings, 2,121 straight (1,790 mm) / 732 curved (879 mm); tb 33 rings, 225 straight (260 mm) / 58 curved (64.1 mm)
+- **Centre lines:** 25,191 paths (463 closed); straight 20,425 mm, curved 730 mm; horizontal 6,790 mm, vertical 5,344 mm, diagonal 8,291 mm
+- **Circles and arcs:** 14 circles, 164 arcs; largest r 3.9 @ (48.4, 224.0), r 3.9 @ (32.3, 253.7), r 3.9 @ (48.8, 253.6), r 3.9 @ (141.4, 88.3)
+- **Closed boxes:** 19 (3 in the title block); named: L576
+- **Words (OCR):** 55 in 52 lines: sterec · NP 25 · REL ADJVSI · RELEAS · I2 · USE PcB 6-105 · ~CAPONENT · DESIGAATIOVS · 616 · CONTROL AMPLIFIER · S40 · Ioe
+- **Title block:** (350, 0)–(387, 28) mm: WBS · SCALE
+- **Wiring (first pass):** 264 connected wire groups from 1,705 runs; labelled ends: 162 mm → Sec; 105 mm → 9.1; 103 mm → Insert; 73 mm → Trns; 72 mm → WBS, LTD
+
+Every curve, box, word and wire group: [1976 - M466 - P46 - Schematic (traced).json](../SCHEMATICS/1976%20-%20M466%20-%20P46%20-%20Schematic%20%28traced%29.json) (the CAD file: `1976 - M466 - P46 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 6 words corrected)

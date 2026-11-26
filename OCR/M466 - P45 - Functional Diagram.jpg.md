@@ -15,6 +15,20 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Size:** 78,105 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** functional, size B (assumed) 432 × 276 mm, 900 × 576 px traced (0.480 mm/px)
+- **Ink extent:** 19–432 mm across, 0–276 mm up
+- **Outlines:** line 264 rings, 2,296 straight (10,157 mm) / 326 curved (899 mm); text 68 rings, 951 straight (1,741 mm) / 234 curved (638 mm); tb 8 rings, 76 straight (259 mm) / 12 curved (31.5 mm)
+- **Centre lines:** 3,902 paths (37 closed); straight 7,573 mm, curved 21.5 mm; horizontal 3,357 mm, vertical 1,794 mm, diagonal 2,422 mm
+- **Circles and arcs:** 0 circles, 4 arcs
+- **Closed boxes:** 14 (4 in the title block); named: ELEHEHT; Flha; KLDRAWR
+- **Words (OCR):** 38 in 34 lines: Eo5pressoR · ELEHEHT · output · Iqu+dRm · GFESTTVATY · SEhsITI · ~h0t +dBm · Limitikg · IXTERHAL · HETER · THRISHOLD UmITER · COHTROL
+- **Title block:** (284, 13)–(432, 59) mm: WBS WARD-Beck BybtemS · DrM: · 0466 · M466C · ENG: · CKD: · LIMITER COMPRESSOR MODULE · FUNCTIONAL DIAGRAM
+- **Wiring (first pass):** 110 connected wire groups from 320 runs; labelled ends: 254 mm → Eo5pressoR, THRESHOLD; 168 mm → Issu  Daue; 120 mm → Eo5pressoR; 94 mm → comp, COHTROI; 87 mm → output, ~h0t +dBm
+
+Every curve, box, word and wire group: [M466 - P45 - Functional Diagram (traced).json](../SCHEMATICS/M466%20-%20P45%20-%20Functional%20Diagram%20%28traced%29.json) (the CAD file: `M466 - P45 - Functional Diagram (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 6 words corrected)

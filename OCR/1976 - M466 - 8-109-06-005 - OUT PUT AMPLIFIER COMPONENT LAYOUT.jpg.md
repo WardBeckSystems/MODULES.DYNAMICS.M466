@@ -21,7 +21,7 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Words (OCR):** 99 in 94 lines: 0E7 · E2 · E10 · ~CI33/1@ · RIG 22k · ~Ri8 · 22k · RS 4k7 · +k7 · R2i · R6 JBK · R2o470
 - **Title block:** (133, 2)–(432, 132) mm: E50 · WBS · 8-109 · ~CI5-22o/i6 · 22o/ecl6o- · ~R36 4k7 · -R374k7 · ISSUE DATE · REVISION · APF · EG · WBS WARD-BECK sysTEMS · DRN: GE B · 8 - 109D · ENG MRW 4/78 · OUT PUT · AMPLIFIER · COMPONENT LAY
 
-Every curve, box, word and wire group: [1976 - M466 - 8-109-06-005 - OUT PUT AMPLIFIER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1976%20-%20M466%20-%208-109-06-005%20-%20OUT%20PUT%20AMPLIFIER%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1976 - M466 - 8-109-06-005 - OUT PUT AMPLIFIER COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - 8-109-06-005 - OUT PUT AMPLIFIER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1976%20-%20M466%20-%208-109-06-005%20-%20OUT%20PUT%20AMPLIFIER%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1976 - M466 - 8-109-06-005 - OUT PUT AMPLIFIER COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

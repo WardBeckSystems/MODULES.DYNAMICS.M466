@@ -11,6 +11,21 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Size:** 252,196 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 285 mm, 2000 × 1322 px traced (0.216 mm/px)
+- **Ink extent:** 26–432 mm across, 0–274 mm up
+- **Outlines:** line 324 rings, 3,915 straight (8,965 mm) / 817 curved (1,126 mm); text 378 rings, 2,130 straight (1,917 mm) / 826 curved (1,054 mm); tb 39 rings, 300 straight (299 mm) / 93 curved (111 mm)
+- **Centre lines:** 5,881 paths (112 closed); straight 6,587 mm, curved 304 mm; horizontal 2,707 mm, vertical 1,615 mm, diagonal 2,265 mm
+- **Circles and arcs:** 7 circles, 53 arcs; largest r 3.9 @ (211.3, 115.9), r 3.9 @ (239.7, 241.9), r 3.8 @ (240.0, 190.8), r 3.8 @ (183.5, 234.4)
+- **Closed boxes:** 10 (6 in the title block)
+- **Dots (junctions):** 1
+- **Words (OCR):** 91 in 87 lines: E3 · 390 · +2i.sv · iolzs · 23 · Ri7 · Ris · 4k7 · 02 · PN3c45 · F3s6 · 2N2102
+- **Title block:** (358, 0)–(432, 30) mm: WBSI WARD-DeCK SYSTEMS · 8 - 109 D · ouTPUT AMPLIFIER · SchEMATIC · SCALE
+- **Wiring (first pass):** 49 connected wire groups from 387 runs; labelled ends: 188 mm → 390, E3, +2i.sv, Ri7; 178 mm → 348, 2N4037, R2s, 4k7; 150 mm → RB, 470, I8K, Cio; 136 mm → R3o, 6*6, R34, 5-6; 135 mm → R32, 49, R35, R33
+
+Every curve, box, word and wire group: [1976 - M466 - OUTPUT AMPLIFIER SCHEMATIC ISSU IOO (traced).json](../SCHEMATICS/1976%20-%20M466%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20ISSU%20IOO%20%28traced%29.json) (the CAD file: `1976 - M466 - OUTPUT AMPLIFIER SCHEMATIC ISSU IOO (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

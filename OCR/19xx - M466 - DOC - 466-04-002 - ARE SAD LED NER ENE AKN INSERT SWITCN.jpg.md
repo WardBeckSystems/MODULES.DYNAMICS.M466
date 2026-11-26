@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 274 in 188 lines: Likit · dB peak · Green LED ndicates · LED ndicates · Peak Timiting (12 · Ovei · Icad) · WBS · M466 · LimIT THRESHOLD swiEch · reference · ShS = Sets
 - **Title block:** (46, 22)–(305, 318) mm: dB peak · Green LED ndicates · LED ndicates · Peak Timiting (12 · Ovei · Icad) · WBS · M466 · LimIT THRESHOLD swiEch · reference · ShS = Sets · SENSITivity switch Shi Allows sclection · [hreshold with
 
-Every curve, box, word and wire group: [19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN (traced).json](../MECHANICAL/19xx%20-%20M466%20-%20DOC%20-%20466-04-002%20-%20ARE%20SAD%20LED%20NER%20ENE%20AKN%20INSERT%20SWITCN%20(traced).json) (the CAD file: `19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN (traced).json](../MECHANICAL/19xx%20-%20M466%20-%20DOC%20-%20466-04-002%20-%20ARE%20SAD%20LED%20NER%20ENE%20AKN%20INSERT%20SWITCN%20%28traced%29.json) (the CAD file: `19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN (traced).dxf`).
 
 ## Full text
 

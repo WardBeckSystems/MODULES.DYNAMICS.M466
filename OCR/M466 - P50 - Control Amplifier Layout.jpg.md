@@ -15,6 +15,18 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Size:** 109,890 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 330 mm, 900 × 688 px traced (0.480 mm/px)
+- **Ink extent:** 94–432 mm across, 0–283 mm up
+- **Outlines:** line 492 rings, 3,959 straight (13,178 mm) / 1,113 curved (2,438 mm); text 365 rings, 2,317 straight (3,912 mm) / 869 curved (1,974 mm); tb 19 rings, 142 straight (381 mm) / 34 curved (75.5 mm)
+- **Circles and arcs:** 13 circles, 0 arcs; largest r 11.2 @ (227.4, 203.6), r 9.8 @ (252.1, 203.2), r 9.8 @ (195.4, 203.3), r 9.8 @ (339.4, 203.3)
+- **Closed boxes:** 48 (14 in the title block); named: 23; L4SUP; pz6 LM3oi; 2149; 30l6; 3477
+- **Words (OCR):** 65 in 48 lines: (E3 · CR8 · CRT · C8 · CRZQI R4 R5 · 23 · Ri4 · R27 R2i · YY · O2 4 +r8 Rib R3 · #-R32 R26 C1 R R25 · R9 RO
+- **Title block:** (113, 5)–(372, 68) mm: DSSMOD cKD · USED 0 · MatL · WBS WAAD-BeCK · 2149 · M466 · 30l6 · DRN: MRW · 6-106 · 3477 · FIMISH · DATE JULY ' 76 COMPRESSOR CONTROL AMPLIFIER · CKD · SCALE · COMPONENT · TOLS
+
+Every curve, box, word and wire group: [M466 - P50 - Control Amplifier Layout (traced).json](../SCHEMATICS/M466%20-%20P50%20-%20Control%20Amplifier%20Layout%20%28traced%29.json) (the CAD file: `M466 - P50 - Control Amplifier Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

@@ -27,7 +27,7 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Title block:** (146, 5)–(384, 57) mm: ISS MOD ICKD] · USED OV · MATL_ · WBS WARD-BECK · 2948 · M466 · 3o16 · 3os- GEB · DRA · MRW · 6-106 · FINISH · DATE JULY 76 · CKD · COMPRESSOR CONTROL AMPLIFIER · SCHEMATIC · SCALE · TOLS
 - **Wiring (first pass):** 98 connected wire groups from 452 runs; labelled ends: 408 mm → R2Z, Icok, cr6, 14p7; 246 mm → Iailio, 4k7, EI3, R34; 169 mm → 22M, CR |, 47k, IN4148; 140 mm → R4o, 3m3, 2N4401, CRS; 136 mm → R33, IsOK, azEvo, R27
 
-Every curve, box, word and wire group: [1976 - M466 - 6-106-02-001 - COMPRESSOR CONTROL AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M466%20-%206-106-02-001%20-%20COMPRESSOR%20CONTROL%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1976 - M466 - 6-106-02-001 - COMPRESSOR CONTROL AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - 6-106-02-001 - COMPRESSOR CONTROL AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M466%20-%206-106-02-001%20-%20COMPRESSOR%20CONTROL%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - M466 - 6-106-02-001 - COMPRESSOR CONTROL AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

@@ -15,6 +15,19 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 
 - **1976** (labelled): `DATE AUG 76` — …51b518L1 USED OM MATL _ WBS WAAD-BECK bybteMB LTD DRM: MRW [DATE AUG 76 CKD Lz ISCALE TOLS Mi66/m466C MIMISA compressor/Limiter COM…
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 317 mm, 2000 × 1468 px traced (0.216 mm/px)
+- **Ink extent:** 5–432 mm across, 0–316 mm up
+- **Outlines:** line 2,565 rings, 16,937 straight (23,288 mm) / 4,131 curved (3,999 mm); text 863 rings, 5,505 straight (4,419 mm) / 1,885 curved (1,980 mm); tb 78 rings, 416 straight (374 mm) / 82 curved (89.6 mm)
+- **Circles and arcs:** 26 circles, 0 arcs; largest r 6.1 @ (143.4, 232.8), r 6.0 @ (203.3, 174.4), r 5.9 @ (204.5, 105.8), r 5.9 @ (267.0, 272.5)
+- **Closed boxes:** 81 (24 in the title block); named: Sw|; Sws; 4348; Zio L4376; R72 Zks; 6-107 ASSEMBLY; Lmsoi; 14301; R4s 7Ks; MPEOB
+- **Dots (junctions):** 1
+- **Words (OCR):** 144 in 129 lines: Riig · Ri3z · IE? · Riig Z5 * · z0k · IEIZ · Rii7 # · Sw| · Ril6 sk · Rizo * · 2127247 · 43
+- **Title block:** (234, 0)–(399, 42) mm: ISS MOD_ cKD · USED ON · [3062 · WBS WAAD-beCK bybtemb LTD · 3K9 Se8 · 3411 · DRN · MrW · M466/m466C · 3518 · TINISH · DATE AUG · Compressor/Limiter · CKD Lel · ScaLE · COMPONENT LAYoUT · TOLS · 466 -
+
+Every curve, box, word and wire group: [1976 - M466 - MIMISA COMPRESSOR-LIMITER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1976%20-%20M466%20-%20MIMISA%20COMPRESSOR-LIMITER%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1976 - M466 - MIMISA COMPRESSOR-LIMITER COMPONENT LAYOUT (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 4 words corrected)

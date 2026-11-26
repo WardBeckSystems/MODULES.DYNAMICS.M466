@@ -28,7 +28,7 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Closed boxes:** 6; named: 'N8S; 'N8S
 - **Words (OCR):** 18 in 15 lines: 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 466 · Cl:J1PRESSORj liM HR · 'N8S ps · BS
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p1 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p1%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p1 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 20 in 13 lines: (VVBS] B41 Fe!lS · WARD -BECK · LT · JW£N...E. · ClNTAJOID · T'O-£X: · ..,tJJ43t~ · M466 · CO PRES SQR/Ll MI ER · ps · BS · tp
 - **Title block:** (100, 403)–(188, 428) mm: WARD -BECK · JW£N...E.
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p2 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p2%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p2 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -50,7 +50,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 155 in 59 lines: WARD-BECK SYSTEM LTD · TA 8L~ · OF CO NTEN TS · M466 COMP RESSOR/LI MITER · SEC TI ON · PAGE · Wa anty · Tec hni ca Oa ta · to · Cf cui Oe cr pt on · 10 · Operating ns uc ons
 - **Title block:** (7, 42)–(274, 426) mm: WARD-BECK SYSTEM LTD · TA 8L~ · OF CO NTEN TS · M466 COMP RESSOR/LI MITER · SEC TI ON · PAGE · Wa anty · Tec hni ca Oa ta · to · Cf cui Oe cr pt on · 10 · Operating ns uc ons · 10 · COllpressor Cha ra
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p3 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p3%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p3 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -62,7 +62,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 351 in 115 lines: WA · CK · LT · RA NT · All Ward·8ed Sy · ms Lt · produ · ar warrant · ins · defective materials and workmanship for · per od · one
 - **Title block:** (26, 77)–(215, 349) mm: All Ward·8ed Sy · ms Lt · produ · ar warrant · defective materials and workmanship for · year from date of shipment. · Ward-B ck Syst ems wi · epair · repl dce · at · with out ha rge · aid prod ucts o
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p4 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p4%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p4 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -74,7 +74,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 243 in 76 lines: WARD -BECK SYSTEM LTC. · TE CH NICAL DATA · "466 · COMPRESSOR/ LIMITER · Galn · Unity. Make up gain of 16 dB · ldll ull fs · ve tlebt · in ceep es cn 1lI0de only · Frequ en cy Resp onse · 25 dB fr OIl 20 Hz · 20 kHz
 - **Title block:** (6, 404)–(72, 427) mm: WARD -BECK SYSTEM LTC.
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p5 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p5%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p5 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -83,7 +83,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 74 rings, 1,388 straight (3,616 mm) / 213 curved (341 mm); text 697 rings, 5,271 straight (5,957 mm) / 1,443 curved (2,254 mm)
 - **Words (OCR):** 136 in 48 lines: WAF:lO -SECK SYS · MS · TECHNI CAL DATA · M466 COMP RESSOR/LI MITER · Recovery Ti · Co_pre or · 5s. · ro_ 10 · dB of · Ll~ te · to 5s. · gain ed uctio
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p6 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p6%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p6 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 387 in 98 lines: WARO -BECK YSTE MS LTO · CIRCU IT DE SCRI PTION · M466 COMPR ESSOR/ LI MITER · In put · The in put · gn al · applied to pin · an · of th edge co · ne cto · The ignal · routed direct ly to the nor mall
 - **Title block:** (32, 251)–(202, 427) mm: WARO -BECK YSTE MS LTO · CIRCU IT DE SCRI PTION · M466 COMPR ESSOR/ LI MITER · In put · The in put · gn al · applied to pin · an · ne cto · The ignal · routed direct ly to the nor mall · cont ac · uf 
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p7 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p7%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p7 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -105,7 +105,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 421 in 91 lines: WARO-BECK YS TE MS LT · CIRC UIT DES CRIPT ION · M466 COMPRESSOR/ LIM ITER · CO Mpressor AMpli fi · and Rectifier · The ou tput ro. he COMPRESSOR TH RESH OLD attenuator SV4 eeds · the slgnal via the 0[-E55 switch SV6 and ass ociated fflter to · aMp lifier 26. · ful wave rectifier consisting of CR5 a
 - **Title block:** (6, 27)–(149, 425) mm: WARO-BECK YS TE MS LT · CO Mpressor AMpli fi · and Rectifier · aMp lifier 26. · fol ows l6 nd in ur generates · th attack ti me, and · Howeve · he · si or .ay be va ied · ac ieve oth · ac · -E55 Co nt
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p8 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p8%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p8 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -115,7 +115,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 233 in 58 lines: WAAD ·SECI< · LTD. · CIR CUIT OfSCR IPTIOH · M4 66 COMPRESSOR/L IM IT[ · li Mit Ind cat or · Two volta ge co.par to rs · art of Z9 · pin · and · compa re he · .it mo ni to vol age · pin
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p9 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p9%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p9 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 418 in 113 lines: WAA O·BECK SYSTEM LTO · OPERATIN IN STRUCTI ONS · M4 66 COMPRESSOR/ LI MITER · Th H466 is de s1g ned · as · comp esso and/or 11 · in de pen dent of one · he as fa · hre sh ol · attack ti me and · le ase · mes re conce ned
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p10 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p10%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p10 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (125.2, 66.9)
 - **Words (OCR):** 446 in 96 lines: WARO ·SE CK SYSTE MS LTO · OPERATING NSTRUCTI ONS · M466 COMPRESSOR/LI MITE · st ere tie connec tion (pin 10) pr OY fs on is ade · co nnec · he CODpresso con rol cir cuitry of seve ral oe · re · gether fo · he purpos · stere or ul · channel opera ion. · re units can
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p11 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p11%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p11 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 2
 - **Words (OCR):** 12 in 7 lines: WARO -BE CK YSTE MS LTO · 51 · J2: · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p12 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p12%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p12 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 8 in 7 lines: WAI=lO · CK SYS · LTO · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p13 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p13%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p13 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -168,7 +168,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 326 rings, 3,335 straight (6,040 mm) / 700 curved (1,082 mm); text 1,097 rings, 7,884 straight (9,010 mm) / 2,240 curved (3,549 mm)
 - **Words (OCR):** 233 in 75 lines: WARO ·BECK SYS TE · ADJUSTMENT PROCEDURE · M4 66 COMPRESSOR/ LIMITER · Refe re nc Ora wi ngs: · 8466-0 001 · M466 · Fu nc ti on.. · 8466·0 2-001 · H466 · Sch · et · 0466- 06-001
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p14 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p14%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p14 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 3
 - **Words (OCR):** 240 in 87 lines: WAI=I · CK · LTO · ADJUST HE~ · PROC EDURE · M46 COMPRESSOR IMI TER · Sct con tro ls as follows · -SENS · COMP · LI · IN · -Tr1 pot R3S, R4 and R70: lIid -posit io
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p15 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p15%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p15 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 270 in 79 lines: WA RO ·SECK SYSTE MS LT · ADJUSTMENT PROCE DURE · M466 COMPRES SOR/ LIMITER · 11) · LI MI TH LD to · ·Oep ress LIM switc · ·Adj us 11101 for · 20 · at pin TE12. · nc as LIMI THLD in · dB step al · he way to +20 and
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p16 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p16%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p16 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -198,7 +198,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 91 rings, 1,687 straight (4,101 mm) / 280 curved (408 mm); text 1,365 rings, 10,023 straight (11,288 mm) / 2,815 curved (4,420 mm)
 - **Words (OCR):** 251 in 81 lines: WAF=lD -SECK SYS TE · LTD · ADJU STMENT PMDCEUURE · H466 · COMPR ESSOR LIM ITER · GR/ VU · out GR) · -Sl OPE · COMP THLD · -RLS (COMP) · 1d- pos 1t fo · COMP
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p17 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p17%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p17 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -211,7 +211,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 245 in 96 lines: WARD -BECK SYSTEM · LTD. · ADJU STM ENT PROCEDUR · M4 66 COMPR ESSOR/L MITER · nc ease input · ve to +20 dBm. Output level hould · nc eas~ · an ther · dB for · tot al of 10 dB. · No te · If
 - **Title block:** (6, 404)–(72, 426) mm: WARD -BECK SYSTEM
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p18 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p18%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p18 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 169 in 72 lines: WARO ·SE CK · MS LTD · AOJ USTM FHT PR OCE DURE · M466 COMPR ESSOR/L IMITER · ·Repeat ab ove steps wi · OS co nt ro · ul ly cw an · input · que ncy at · kHz · Set contro · fol lows
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p19 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p19%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p19 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -233,7 +233,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 2
 - **Words (OCR):** 258 in 96 lines: D-BECK SYSTEM · TD · ADJ USTME NT PROCEDURE · M466 COMPRESSOR/L IMITER · -CDMP: ou · INS · in · Appl · kH · dBm npu sfg na · -Adju · R10l (on mothe board fo
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p20 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p20%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p20 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -245,7 +245,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 245 in 85 lines: WARD -BECK SYSTEM LTD · ADJUSTMENT PROC(D URE · 1'14 66 CO MPRESSOR/L IM ITER · 20) · Test and adjust LIMIT indicators · ro. he th re hold le vel, in creas inp ut · ve by d8 · Adj ust R1 46 · herboard) · gr ee LE CR15 just · itc es · on. Vo lta ge
 - **Title block:** (6, 404)–(72, 426) mm: WARD -BECK SYSTEM LTD
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p21 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p21%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p21 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -255,7 +255,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 2; named: -BE
 - **Words (OCR):** 170 in 71 lines: WA~D -BE CK SYS TE · LTD · ADJU STMENT PROCEDURE · M4 66 CO MP RESSO R/L MI TER · Set co · ollow · -SE NS · LI MIT TH LD: · RLS LI MI · cw · -LIM · in
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p22 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p22%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p22 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -264,7 +264,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 281 rings, 3,214 straight (5,778 mm) / 698 curved (1,087 mm); text 1,297 rings, 9,587 straight (10,778 mm) / 2,653 curved (4,130 mm)
 - **Words (OCR):** 268 in 96 lines: WARD · ECK YS · MS LTD. · ADJ USTMEN PROCEDURE · 466 · CO MPRESSOR/ LIM ITER · -RLS (CDMP) · Mid-posi tion · CDHP · INS · Appl · kH
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p23 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p23%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p23 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -275,7 +275,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 230 in 128 lines: WA · -SECK SYSTEM · LT · PARTS II ST · 46 · CO HPRESSOR llH IT ER · PART · OES CR PHO · Hr' · HFG PART NUH 8ER · Cl · Cap aci
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p24 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p24%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p24 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -285,7 +285,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 135 in 84 lines: WARD -BECK SYSTEM LTD · PARTS LIST · 1'14 · COMPRESSOR IMITER · PART · DESCR IPTION · HFG · MFG PA RT NUMBER · caeee tor 10 uf /2S · Ke_et · T390C106 M02SAS · C37
 - **Title block:** (6, 404)–(72, 426) mm: WARD -BECK SYSTEM LTD
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p25 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p25%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p25 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -296,7 +296,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 75 in 64 lines: WARD ~BeCI( SYSTEM LTD · PAR TS IS · M4 · COMPRESSOR/ LI MITER · PART · DESCRIPTIO · Kro · HFG PART NUMBER · Qll · ran · er · National
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p26 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p26%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p26 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 128 in 84 lines: WARD-B ECK SYS TE MS LTD · PARTS LIST · "466 COMPRESSOR /LIMITER · PART · DESCRIPTION · MFG · MFG PAR NUMBER · .31 · Re istor · Phl1 1ps · R32 · 15K
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p27 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p27%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p27 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -316,7 +316,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 130 in 87 lines: WARD -SE CK SYS · MS LTD · PARTS LI ST · M46 · COMP RES SOR · MI TER · PART · DE SCRI PTION · ,Fe · MFG PART NUMBER · '66 · Resist or
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p28 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p28%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p28 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -327,7 +327,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 122 in 87 lines: WARD -BECK SYSTEMS LTD · PARTS LIS · H46 · COMPRESSOR /LIMITER · PART · O£SCRIP TION · HFG PART UHBER · RIOI · Po · iher · PT lOY ZOK · R10Z
 - **Title block:** (6, 401)–(116, 424) mm: WARD -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p29 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p29%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p29 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -339,7 +339,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 159 in 90 lines: WARD BECK SY STE · LTD · PARTS LIST · M466 COMP RESSOR lIMI TER · PA RT · OESCRIP TI ON · MF PART NUMBE · Rl l6 · Resistor · SKI · Phi lip · (De ell!)
 - **Title block:** (6, 402)–(72, 424) mm: WARD BECK SY STE
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p30 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p30%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p30 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p30 (traced).dxf`).
 
 ### Page 31
 
@@ -349,7 +349,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 13 in 7 lines: WARD-BECK SYSTEMS LTO · 106 COHPRESSOR CONTROL AMPLIF IER · ps · BS · tp · ht · 06
 - **Title block:** (7, 401)–(116, 424) mm: WARD-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p31 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p31%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p31 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p31 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p31%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p31 (traced).dxf`).
 
 ### Page 32
 
@@ -361,7 +361,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 331 in 87 lines: Fl · SYSTE MS LTD. · DESCR PTI ON · 106 COHPRESSOR CON TROL AHP LIFlfR · The 6-106 co nt ol am plif ie is · pri nt ed ci cui boa rd un · desig ned · be us ed · an inte rn · compo nen · the WBS · H466 compressor/ lim ter modu
 - **Title block:** (29, 141)–(265, 328) mm: The 6-106 co nt ol am plif ie is · pri nt ed ci cui boa rd un · desig ned · be us ed · an inte rn · compo nen · the WBS · H466 compressor/ lim ter modu · Th · 106 · unt ont · H4 66 motherb oar as · pl
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p32 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p32%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p32 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p32 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p32%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p32 (traced).dxf`).
 
 ### Page 33
 
@@ -371,7 +371,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 126 in 42 lines: WARD -BECK SYSTEMS LTD · DESCRIPTI ON · 106 COMPRESSO CON TROL AMPL IFIER · 25 provid@ · he 1i it in ac t10n. The ou tpu · ZS · u••@d via R1 · Z4. It als app ear <It · ai · naI EI3, · wher · is used
 - **Title block:** (6, 307)–(177, 425) mm: WARD -BECK SYSTEMS LTD · DESCRIPTI ON · 106 COMPRESSO CON TROL AMPL IFIER · 25 provid@ · he 1i it in ac t10n. The ou tpu · u••@d via R1 · Z4. It als app ear <It · wher · is used · operate wo vo lta ge
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p33 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p33%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p33 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p33 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p33%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p33 (traced).dxf`).
 
 ### Page 34
 
@@ -382,7 +382,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 156 in 100 lines: WARD-BECK SYSTEMS LTD · PARTS LI ST · 106 COMPR ESSOR CONTROL AMPLIFIE · PART · DESCRIP TION · MFG PART NUMBER · C1 · Ca pacitor · Phi lips · 22 22-638 -10159 · C2 · 0.4 uF 135
 - **Title block:** (7, 403)–(115, 426) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p34 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p34%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p34 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p34 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p34%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p34 (traced).dxf`).
 
 ### Page 35
 
@@ -391,7 +391,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 352 rings, 3,603 straight (6,408 mm) / 763 curved (1,196 mm); text 429 rings, 3,385 straight (3,989 mm) / 982 curved (1,486 mm)
 - **Words (OCR):** 129 in 98 lines: WARD-SECK SYSTEM · LTD · PA RTS LI ST · COMPRESSOR CONTR OL AM PLI fi ER · PAR · OES CRI PTIO · MFG · Mf PART NUMB ER · Rll · Re sisto · 620 · Phil
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p35 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p35%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p35 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p35 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p35%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p35 (traced).dxf`).
 
 ### Page 36
 
@@ -401,7 +401,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 46 in 14 lines: WARD -SECK SYSTEM LTD. · PARTS LI · COMPRE SS OR CONT ROL AK PlIF · WB · e,ommends he use of · pl ement parts ma de by the · pecfffed manuf ac turers or · ,ontfnu ed opt imum equ fp me nt · pe rfo mance. · ps · BS · tp
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p36 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p36%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p36 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p36 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p36%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p36 (traced).dxf`).
 
 ### Page 37
 
@@ -411,7 +411,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 14 in 8 lines: WAF'lD -BECK SYSTEM · LT · 109 AM PLI FIER SERIES · ps · BS · tp · ht · 109
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p37 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p37%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p37 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p37 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p37%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p37 (traced).dxf`).
 
 ### Page 38
 
@@ -422,7 +422,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 262 in 111 lines: WARD-BECK SYSTEMS LTC · OE SCII II' TJ ON · 109 AMPLI FIER ERI ES · The · 109 er es · pllf ler are ut · zed · int ern · cOllpon · wi · va rio us WBS er · au di co nso le .od es.
 - **Title block:** (7, 306)–(148, 425) mm: WARD-BECK SYSTEMS LTC · The · 109 er es · pllf ler are ut · cOllpon · wi · va rio us WBS er · Ea · 10 · pl ifi er mo unt as
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p38 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p38%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p38 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p38 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p38%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p38 (traced).dxf`).
 
 ### Page 39
 
@@ -431,7 +431,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 90 rings, 1,425 straight (3,617 mm) / 241 curved (384 mm); text 1,899 rings, 14,726 straight (16,337 mm) / 4,083 curved (6,294 mm)
 - **Words (OCR):** 393 in 99 lines: WA D-SECK SYSTEM · TD. · DESCRI PTI ON · 109 AMPL IF ER SER IES · Ou tp ut Imp edance · less han 100 ohms · Lo ad mped an ce: · 600 ohms ba nce · Ou tput Le ve · +30 dBm ma xi mu · Power Req ui reme nt · tZ
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p39 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p39%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p39 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p39 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p39%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p39 (traced).dxf`).
 
 ### Page 40
 
@@ -440,7 +440,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 56 rings, 1,253 straight (3,326 mm) / 204 curved (303 mm); text 228 rings, 1,718 straight (1,978 mm) / 471 curved (742 mm)
 - **Words (OCR):** 47 in 21 lines: WARO·SECK SVSTEMS LTC · DE SCRIPTION · 8-109 AMP LIF IER SERI ES · inver ing · .pli fi~ with EI · ~xt ern all~ · apped · The ou tp ut · ll ode · of th · J09 · ies is acti vel
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p40 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p40%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p40 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p40 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p40%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p40 (traced).dxf`).
 
 ### Page 41
 
@@ -452,7 +452,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 158 in 93 lines: WARD-SECK SYSTEMS LTD · PA RTS LI ST · 109 '\MPlIflER SERI ES · -109 · PART · DESCRIPTION · MeG · MFG PART NUMBER · Cl · Capaci to · J3 F/l · Ke.et
 - **Title block:** (6, 402)–(115, 425) mm: WARD-SECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p41 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p41%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p41 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p41 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p41%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p41 (traced).dxf`).
 
 ### Page 42
 
@@ -463,7 +463,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 91 in 66 lines: WA~D ~BE CK · MS LTD · PAR TS LI ST · 109 AMPLIF ER SERI ES · 109 · PA RT · OESCRI PTI ON · MFG · HFG PAR HUM8ER · R4 · Res isto · 51
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p42 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p42%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p42 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p42 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p42%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p42 (traced).dxf`).
 
 ### Page 43
 
@@ -477,7 +477,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 124 in 73 lines: RD BEC · YS · LTD. · PARTS LI ST · 8-10 AMP LIF IER · RIES · 109 · PART · DESCRIP TI ON · MFG · NFC PA RT NUM BER · .36
 - **Wiring (first pass):** 23 connected wire groups from 212 runs; labelled ends: 124 mm → PART; 109 mm → 015, PART; 60 mm → Philip; 55 mm → NFC, BER; 54 mm → MFC, 2222-, RER, 478
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p43 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p43%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p43 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p43 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p43%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p43 (traced).dxf`).
 
 ### Page 44
 
@@ -486,7 +486,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Outlines:** line 231 rings, 3,411 straight (6,547 mm) / 649 curved (1,032 mm); text 604 rings, 4,498 straight (5,177 mm) / 1,404 curved (2,180 mm)
 - **Words (OCR):** 143 in 76 lines: WA · BECK · SYS · MS LTO · PART LI ST · 8-109 AMPL IF ER SERI ES · -109C · All pirts is pe · 109 except as note be ow · PART · DESCRIPTION · "FG PA RT HUMB ER
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p44 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p44%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p44 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p44 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p44%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p44 (traced).dxf`).
 
 ### Page 45
 
@@ -499,7 +499,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 125 in 50 lines: WARO-BECK SYSTEMS LT · PARTS · ST · 8-1 09 · AMPL IFI ER SE RI ES · 109F · Al part as per · 109 ex cept as not cd bel ow · PART · DESC Rl TI · MeG · MFG
 - **Title block:** (6, 397)–(114, 420) mm: WARO-BECK SYSTEMS LT
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p45 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p45%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p45 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p45 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p45%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p45 (traced).dxf`).
 
 ### Page 46
 
@@ -512,7 +512,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 524 in 242 lines: ll"\.IJ NDICATORS: Gr · dB peak imit ing, yellow LED nd ca · LED in ica · 12 d6 pe llk · im i"g · 12 dB · ov rl oad · BS · LI MIT THR ESHOLD sw itc SWS · hre sh · re ee ec · SENSIT VITY
 - **Title block:** (56, 0)–(237, 204) mm: wi · SW4 · Set · SLOPE · re-e ece · co-o ee · tee · nq downward · dB · lose · beloe nomina · ab sh ng amou · pe rati ng · SlQI'E · soc · Ac volte · LED. · rec ov ry rate · pe ti ng wi · tate · Callb r
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p46 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p46%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p46 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p46 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p46%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p46 (traced).dxf`).
 
 ### Page 47
 
@@ -526,7 +526,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Title block:** (284, 1)–(432, 76) mm: 10/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYsTEMS · DRN DB · M466 / M466C · ENG. · RKB · LIMITER · COMPRESSOR MODULE · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · Lo-4' ?11 · ISSUE · 
 - **Wiring (first pass):** 101 connected wire groups from 274 runs; labelled ends: 233 mm → INSERT; 229 mm → ELEMENT, GR, GAIN, SENSITiviTy; 159 mm → COMPRESSOR, SENSiTivITY, BUF, THRESHOLD; 108 mm → GR, BUF; 101 mm → VU, BUF
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p47 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p47%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p47 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p47 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p47%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p47 (traced).dxf`).
 
 ### Page 48
 
@@ -539,7 +539,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 139 in 99 lines: ..25\1' · 2.1 · GO · 1,"V · vee. pc.a 10 · ..oM PONENT · '-NA otJ c:a ..Ro · IH · E3 · 1<5 · 07 · C44, CR ID,
 - **Title block:** (299, 2)–(377, 32) mm: 00. CKD. · USED ON · MA Tl• · :2tU1 · 301,, 1u.:.. · (iE · ht 78 · D'-:N. MRW · ~41 J>.o.:.. · fiNISH · DATf JUNE · CK · SCALE · Ton. · 1M..
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p48 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p48%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p48 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p48 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p48%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p48 (traced).dxf`).
 
 ### Page 49
 
@@ -550,7 +550,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Closed boxes:** 84; named: SlY1; 5W5; LM ~76; :at :Ql) ',QA; Z4; 'eg] 21 LM~1; '[JJ zz; R45 7115; USED ON; CKO.; G;EB
 - **Words (OCR):** 133 in 108 lines: Om · oj · R.IIS · 75 lc · IES · \1011 · RII7 ..til · SlY1 · Rlll..... · -RlIb -aL · -RllD · \2.~.lmf>
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p49 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p49%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p49 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p49 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p49%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p49 (traced).dxf`).
 
 ### Page 50
 
@@ -562,7 +562,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Dots (junctions):** 3
 - **Words (OCR):** 60 in 53 lines: ui · 111 · en · INPUT · en · SH IELD GND · III · c<c< · ",Ulc< · :ll! · Ul · c<u
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p50 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p50%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p50 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p50 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p50%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p50 (traced).dxf`).
 
 ### Page 51
 
@@ -576,7 +576,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Title block:** (169, 5)–(422, 54) mm: ISS. MOD. CKD. · USED · ~WARD .BECK BS LTD. · 2.'34B · M40b · SYSTEMS · 3057 · GEB · DRN. · MRW · 6-10 · DATE JULY '76 · COMPRESSOR CONTROL AMPLIFIER · tp · CKD. · ht · SCHEMATIC · SCALE · XX
 - **Wiring (first pass):** 102 connected wire groups from 645 runs; labelled ends: 328 mm → EI2., R'2.7, R.31, 51K.; 246 mm → 41<7, R34; 157 mm → RIO, M7, If3S, 14; 154 mm → 2.'34B, ISS., MOD.; 144 mm → 2'2.0, 22M, c.R1, 47K
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p51 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p51%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p51 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p51 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p51%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p51 (traced).dxf`).
 
 ### Page 52
 
@@ -589,7 +589,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 83 in 48 lines: E3 · A'2 · flT\E · -*CR · CR7 EiJ R2.3 R22.CR6 C9 · Rb RZI · RI4 · Z5 · cf · II · L>I · PAL~l1.
 - **Title block:** (114, 6)–(416, 66) mm: ps · ISS, MOD. CKD. · USED O'l · MATL. · M466 · SYSTEMS · BS LTD · DRN. · MRW · GE · -106 · DATE · JlllY' 76 · ;'<\-11 · FINISH · COMPRESSOR CO · tp NTROL AMPLI FIER · CKD. · ht LAYOUT · SCALE · COMPO
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p52 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p52%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p52 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p52 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p52%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p52 (traced).dxf`).
 
 ### Page 53
 
@@ -602,7 +602,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 138 in 118 lines: E3 · 18 · 10 lZ5 · J7 · K7 · 22 · IfF · E:l · PN.3 · CI · R6 · 2t.l21
 - **Title block:** (355, 2)–(432, 35) mm: IISSLE DATE · REVISION · APP · tp WARD·se SYSTEMS · \NSS] · ht · ORH. · GEl · ENG.MI · 4/78 · OU PUT AMP LI FIER · -109 · CKD. · SCHEMATIC · SCAl. · ISSU'
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p53 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p53%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p53 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p53 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p53%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p53 (traced).dxf`).
 
 ### Page 54
 
@@ -615,7 +615,7 @@ Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p
 - **Words (OCR):** 103 in 80 lines: EI8 · 33 · -RI<;' · Z.k · IB 221'. · fi · R1 · JN4 14 · CR · 10-45 · 7:2 · N2 10Z.
 - **Title block:** (260, 3)–(432, 81) mm: ISSUE DA TE · REVISION · APP · [\NBS] WAR · CK YSTEMS · ps · BS · DRN · E8 · 8-109 · ENG.M RW · 78 · UT PUT AMPLIFIER · CKD · rl2.tMv- · CO PO EN · tp LAY OU · APP. · ht · SCALE · ISSUE · 10
 
-Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p54 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20(2)%20p54%20(traced).json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p54 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466 - Compressor - Limiter (2) p54 (traced).json](../MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29%20p54%20%28traced%29.json) (the CAD file: `1976 - M466 - Compressor - Limiter (2) p54 (traced).dxf`).
 
 ## Full text
 

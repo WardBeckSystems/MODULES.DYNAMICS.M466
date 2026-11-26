@@ -37,7 +37,7 @@ Wiki page: [M466](../../../../PAGES/M466.md)
 - **Title block:** (357, 14)–(432, 31) mm: WBS WARD-DeCK SYSTEMS · 8 - 109D
 - **Wiring (first pass):** 54 connected wire groups from 390 runs; labelled ends: 188 mm → E3, +2i.5v, 390, Ri7; 178 mm → 348, 2N4037, R2s, 4k7; 136 mm → Rzo, 6*6, R34, 5-6; 134 mm → RB, 470, I8k, cic; 134 mm → R32, R35, Je, R33
 
-Every curve, box, word and wire group: [1978 - 8-109-02-005 - 8-109D OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-005%20-%208-109D%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-005 - 8-109D OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-005 - 8-109D OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-005%20-%208-109D%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-005 - 8-109D OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -41,7 +41,7 @@ M466M compressor meter module schematic with stereo tie switch.
 - **Title block:** (231, 7)–(366, 65) mm: WBS WARD-BECK byBTEMs LTD. · DRN · GEB · M46G M · DATE SEPT 76 · CCMPRESSOR · CKD_ PR · MODULE · ISCALE
 - **Wiring (first pass):** 17 connected wire groups from 153 runs; labelled ends: 872 mm → USED ON, MIMISH; 299 mm → 13; 132 mm → 10; 53 mm → DRN, DATE SEPT 76, CKD_, MIMISH; 49 mm → MATZ ., WBS
 
-Every curve, box, word and wire group: [1976 - 466-02-003 - COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20466-02-003%20-%20COMPRESSOR%20METER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 466-02-003 - COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 466-02-003 - COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20466-02-003%20-%20COMPRESSOR%20METER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 466-02-003 - COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 
