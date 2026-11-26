@@ -1,0 +1,145 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/SCHEMATICS/1976 - 466-02-003 - M466M COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1.png",
+ "version": 1,
+ "trace": "_traces/16215107aeb9b064.svg",
+ "sheet": {
+  "number": "B 466-02-003",
+  "title": "M466M / COMPRESSOR METER / MODULE SCHEMATIC",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 13.0, 427.9, 298.2],
+ "outlines": {
+  "line": {"rings": 106, "straight": {"n": 1416, "mm": 5299.5}, "curved": {"n": 216, "mm": 313.4}},
+  "text": {"rings": 236, "straight": {"n": 1887, "mm": 2316.2}, "curved": {"n": 518, "mm": 830.9}},
+  "tb": {"rings": 12, "straight": {"n": 131, "mm": 245.3}, "curved": {"n": 11, "mm": 13.8}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 355, "straight": {"n": 425, "mm": 1821.5}, "curved": {"n": 86, "mm": 92.7}},
+   "text": {"paths": 1347, "straight": {"n": 1904, "mm": 1618.6}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 288, "straight": {"n": 341, "mm": 1035.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 48,
+  "orientation": {"horizontal": {"n": 664, "mm": 2347.1}, "vertical": {"n": 601, "mm": 792.1}, "diagonal": {"n": 1405, "mm": 1336.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [163.5, 106.0], "r": 1.6, "kind": "arc", "span": 215, "from": ["centre line"], "start": 277},
+  {"c": [177.2, 106.4], "r": 1.6, "kind": "arc", "span": 212, "from": ["centre line"], "start": 279},
+  {"c": [218.1, 159.4], "r": 1.6, "kind": "circle", "span": 307, "from": ["centre line"]},
+  {"c": [171.6, 207.3], "r": 1.3, "kind": "circle", "span": 284, "from": ["centre line"]},
+  {"c": [120.5, 158.4], "r": 1.2, "kind": "arc", "span": 201, "from": ["centre line"], "start": 56},
+  {"c": [276.0, 207.7], "r": 1.2, "kind": "circle", "span": 276, "from": ["centre line"]},
+  {"c": [181.9, 201.0], "r": 1.2, "kind": "circle", "span": 355, "from": ["centre line"]},
+  {"c": [171.5, 200.8], "r": 1.2, "kind": "circle", "span": 273, "from": ["centre line"]},
+  {"c": [276.2, 201.0], "r": 1.2, "kind": "circle", "span": 289, "from": ["centre line"]},
+  {"c": [223.8, 201.0], "r": 1.2, "kind": "circle", "span": 292, "from": ["centre line"]},
+  {"c": [94.2, 159.9], "r": 1.2, "kind": "arc", "span": 260, "from": ["centre line"], "start": 169},
+  {"c": [120.0, 159.7], "r": 1.2, "kind": "arc", "span": 153, "from": ["centre line"], "start": 145},
+  {"c": [286.7, 201.1], "r": 1.2, "kind": "circle", "span": 294, "from": ["centre line"]},
+  {"c": [234.3, 201.1], "r": 1.0, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]},
+  {"c": [223.9, 207.4], "r": 1.0, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [87.2, 200.4, 126.1, 239.2], "w": 38.9, "h": 38.9, "from": "ring", "words": ["VU", "METER"]},
+  {"mm": [322.5, 71.2, 335.3, 77.1], "w": 12.8, "h": 5.9, "from": "ring", "in_title_block": true},
+  {"mm": [336.2, 71.0, 348.7, 76.9], "w": 12.5, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [289.5, 46.4, 321.7, 52.2], "w": 32.2, "h": 5.8, "from": "ring", "words": ["DRN: GEB"], "in_title_block": true},
+  {"mm": [289.5, 39.7, 321.7, 45.8], "w": 32.2, "h": 6.0, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [289.3, 33.0, 321.7, 39.1], "w": 32.4, "h": 6.0, "from": "ring", "words": ["CKD", "EE_"], "in_title_block": true},
+  {"mm": [289.3, 26.6, 321.7, 32.6], "w": 32.4, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [289.3, 13.4, 321.5, 25.7], "w": 32.2, "h": 12.3, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [322.3, 13.2, 335.1, 25.7], "w": 12.7, "h": 12.5, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [183.3, 228.6, 278.3, 235.6], "text": "COMPRESSOR STEREO TIE"},
+   {"mm": [100.2, 225.6, 110.3, 230.4], "text": "VU"},
+   {"mm": [93.9, 218.3, 119.2, 224.8], "text": "METER"},
+   {"mm": [275.1, 219.8, 288.4, 225.3], "text": "OFF"},
+   {"mm": [237.3, 157.2, 243.8, 161.5], "text": "10"},
+   {"mm": [161.1, 146.6, 174.9, 153.3], "text": "PuS"},
+   {"mm": [213.5, 147.5, 258.2, 152.7], "text": "BuS STEREO"},
+   {"mm": [237.5, 140.1, 250.0, 146.6], "text": "TIE"},
+   {"mm": [93.3, 115.3, 114.9, 122.2], "text": "NOTE"},
+   {"mm": [98.5, 109.7, 111.4, 115.2], "text": "FOR"},
+   {"mm": [113.3, 109.0, 188.7, 116.0], "text": "CoMPONENT LAYout"},
+   {"mm": [183.5, 102.8, 198.2, 109.2], "text": "002"},
+   {"mm": [98.2, 102.3, 130.8, 108.8], "text": "SEE DWG"},
+   {"mm": [322.6, 71.2, 348.5, 76.8], "text": "ISSUE |DATE"},
+   {"mm": [372.6, 71.2, 392.1, 75.6], "text": "REVISION"},
+   {"mm": [417.6, 71.2, 426.6, 75.1], "text": "ApP"},
+   {"mm": [297.9, 57.0, 422.7, 65.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [290.2, 46.9, 312.8, 52.4], "text": "DRN: GEB"},
+   {"mm": [364.7, 43.0, 383.9, 49.9], "text": "M4g6m"},
+   {"mm": [289.5, 40.4, 298.8, 45.2], "text": "ENG"},
+   {"mm": [345.9, 35.4, 400.9, 42.4], "text": "COMPRESSOR METER"},
+   {"mm": [290.2, 33.5, 315.0, 38.9], "text": "CKD EE_"},
+   {"mm": [290.2, 27.0, 299.2, 31.8], "text": "APP"},
+   {"mm": [348.0, 26.8, 400.9, 33.7], "text": "MODULE SCHEMATIC"},
+   {"mm": [298.2, 21.2, 312.2, 26.0], "text": "SCALE"},
+   {"mm": [408.3, 19.9, 421.2, 24.7], "text": "ISSUE"},
+   {"mm": [353.2, 16.2, 384.5, 21.5], "text": "466-02-003"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [280.9, 13.9, 431.8, 82.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE |DATE",
+   "REVISION",
+   "ApP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN: GEB",
+   "M4g6m",
+   "ENG",
+   "COMPRESSOR METER",
+   "CKD EE_",
+   "APP",
+   "MODULE SCHEMATIC",
+   "SCALE",
+   "ISSUE",
+   "466-02-003"
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 10,
+  "wire_runs": 73,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 110.3, "runs": 6, "ends": 4, "bbox": [87.7, 164.5, 125.9, 200.6], "labels": []},
+   {"mm": 96.3, "runs": 5, "ends": 3, "bbox": [187.6, 165.4, 240.5, 200.8], "labels": ["10"]},
+   {"mm": 56.6, "runs": 2, "ends": 2, "bbox": [0.2, 13.2, 56.8, 13.6], "labels": []},
+   {"mm": 39.3, "runs": 2, "ends": 2, "bbox": [166.0, 165.2, 170.1, 200.6], "labels": []},
+   {"mm": 39.1, "runs": 3, "ends": 2, "bbox": [218.1, 165.4, 222.4, 200.8], "labels": []},
+   {"mm": 38.4, "runs": 1, "ends": 2, "bbox": [86.8, 200.8, 86.8, 239.2], "labels": []},
+   {"mm": 38.4, "runs": 1, "ends": 2, "bbox": [87.2, 239.6, 125.7, 239.6], "labels": []},
+   {"mm": 38.2, "runs": 1, "ends": 2, "bbox": [126.1, 201.0, 126.3, 239.2], "labels": []},
+   {"mm": 18.4, "runs": 1, "ends": 2, "bbox": [335.9, 13.2, 354.3, 13.2], "labels": ["466-02-003"]},
+   {"mm": 12.5, "runs": 1, "ends": 2, "bbox": [321.9, 13.2, 334.4, 13.4], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic B 466-02-003, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–428 mm across, 13–298 mm up",
+  "- **Outlines:** line 106 rings, 1,416 straight (5,300 mm) / 216 curved (313 mm); text 236 rings, 1,887 straight (2,316 mm) / 518 curved (831 mm); tb 12 rings, 131 straight (245 mm) / 11 curved (13.8 mm)",
+  "- **Centre lines:** 1,990 paths (48 closed); straight 4,476 mm, curved 92.7 mm; horizontal 2,347 mm, vertical 792 mm, diagonal 1,336 mm",
+  "- **Circles and arcs:** 10 circles, 5 arcs; largest r 1.6 @ (218.1, 159.4), r 1.3 @ (171.6, 207.3), r 1.2 @ (276.0, 207.7), r 1.2 @ (181.9, 201.0)",
+  "- **Closed boxes:** 9 (8 in the title block); named: VU METER",
+  "- **Words (OCR):** 34 in 27 lines: COMPRESSOR STEREO TIE · VU · METER · OFF · 10 · PuS · BuS STEREO · TIE · NOTE · FOR · CoMPONENT LAYout · 002",
+  "- **Title block:** (281, 14)–(432, 83) mm: ISSUE |DATE · REVISION · ApP · WBS WARD-BECK SYSTEMS · DRN: GEB · M4g6m · ENG · COMPRESSOR METER · CKD EE_ · APP · MODULE SCHEMATIC · SCALE · ISSUE · 466-02-003",
+  "- **Wiring (first pass):** 10 connected wire groups from 73 runs; labelled ends: 96 mm → 10; 18 mm → 466-02-003"
+ ]
+}

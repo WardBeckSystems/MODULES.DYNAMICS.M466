@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p37.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.5, 2.7, 297.7, 417.1],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 864, "mm": 2501.9}, "curved": {"n": 94, "mm": 170.9}},
+  "text": {"rings": 69, "straight": {"n": 571, "mm": 713.6}, "curved": {"n": 140, "mm": 222.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [13.0, 410.6, 130.0, 418.2], "text": "WAAD-BECK SYSTEmS LTD_"},
+   {"mm": [110.5, 283.9, 201.2, 292.9], "text": "8-109 AMPL[FIER SERIES"},
+   {"mm": [141.4, 1.7, 162.4, 8.7], "text": "8-109"}
+  ]
+ },
+ "title_block": {"mm": [6.7, 402.1, 116.8, 427.0], "from": "title-block words (training set)", "text": ["WAAD-BECK SYSTEmS LTD_"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–298 mm across, 3–417 mm up",
+  "- **Outlines:** line 4 rings, 864 straight (2,502 mm) / 94 curved (171 mm); text 69 rings, 571 straight (714 mm) / 140 curved (222 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BECK SYSTEmS LTD_ · 8-109 AMPL[FIER SERIES · 8-109",
+  "- **Title block:** (7, 402)–(117, 427) mm: WAAD-BECK SYSTEmS LTD_"
+ ]
+}

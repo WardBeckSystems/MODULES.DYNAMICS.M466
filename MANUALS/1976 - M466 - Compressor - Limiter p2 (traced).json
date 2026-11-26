@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.2, 3.9, 297.0, 420.6],
+ "outlines": {
+  "line": {"rings": 6, "straight": {"n": 819, "mm": 2811.5}, "curved": {"n": 64, "mm": 103.0}},
+  "text": {"rings": 175, "straight": {"n": 2134, "mm": 2770.1}, "curved": {"n": 485, "mm": 747.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [108.0, 410.2, 274.6, 421.7], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [37.8, 402.7, 273.5, 417.8], "text": "WBS 841 PAOCRESS AVENUE, SCANBOROUGH; ONTAAIO M1H2X4"},
+   {"mm": [106.2, 399.4, 157.4, 405.9], "text": "TELEX: 08-?3469"},
+   {"mm": [196.5, 397.7, 273.5, 404.6], "text": "TELEPHONE: 418/438-8550"},
+   {"mm": [125.0, 240.1, 177.7, 254.2], "text": "M466"},
+   {"mm": [105.8, 227.6, 195.6, 237.6], "text": "COMPRESSOR/LIMITER"},
+   {"mm": [61.5, 2.4, 238.4, 10.4], "text": "DESIGN ANI) MANUFACTURE OF PAOFFSSONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [31.6, 394.0, 254.1, 430.5],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "WBS 841 PAOCRESS AVENUE, SCANBOROUGH; ONTAAIO M1H2X4", "TELEX: 08-?3469", "TELEPHONE: 418/438-8550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–297 mm across, 4–421 mm up",
+  "- **Outlines:** line 6 rings, 819 straight (2,812 mm) / 64 curved (103 mm); text 175 rings, 2,134 straight (2,770 mm) / 485 curved (748 mm)",
+  "- **Words (OCR):** 10 in 7 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOCRESS AVENUE, SCANBOROUGH; ONTAAIO M1H2X4 · TELEX: 08-?3469 · TELEPHONE: 418/438-8550 · M466 · COMPRESSOR/LIMITER · DESIGN ANI) MANUFACTURE OF PAOFFSSONAL AUDIO EQUIPMENT",
+  "- **Title block:** (32, 394)–(254, 430) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOCRESS AVENUE, SCANBOROUGH; ONTAAIO M1H2X4 · TELEX: 08-?3469 · TELEPHONE: 418/438-8550"
+ ]
+}

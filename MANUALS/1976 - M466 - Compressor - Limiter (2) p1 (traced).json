@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1471, 2000],
+  "mm": [317.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [24.8, 0.6, 284.1, 429.4],
+ "outlines": {"line": {"rings": 82, "straight": {"n": 2864, "mm": 9771.6}, "curved": {"n": 239, "mm": 431.6}}},
+ "circles": [],
+ "boxes": [
+  {"mm": [221.5, 413.9, 238.6, 416.7], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [221.7, 329.5, 238.8, 332.5], "w": 17.1, "h": 3.0, "from": "ring", "words": ["'N8S"]},
+  {"mm": [221.7, 296.9, 238.8, 299.5], "w": 17.1, "h": 2.6, "from": "ring"},
+  {"mm": [221.7, 257.4, 238.8, 260.4], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [221.7, 251.1, 239.0, 254.1], "w": 17.3, "h": 3.0, "from": "ring", "words": ["'N8S"]},
+  {"mm": [221.9, 179.6, 238.8, 182.4], "w": 16.8, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [181.1, 399.2, 272.5, 418.6], "text": "'N8S"},
+   {"mm": [180.7, 360.3, 272.0, 379.8], "text": "'N8S"},
+   {"mm": [180.7, 321.0, 272.0, 340.5], "text": "'N8S"},
+   {"mm": [180.7, 282.4, 271.6, 301.8], "text": "'N8S"},
+   {"mm": [180.7, 242.9, 271.6, 262.3], "text": "'N8S"},
+   {"mm": [180.7, 203.8, 271.6, 223.2], "text": "'N8S"},
+   {"mm": [180.3, 164.7, 271.2, 184.2], "text": "'N8S"},
+   {"mm": [180.3, 125.7, 271.6, 145.1], "text": "'N8S"},
+   {"mm": [211.8, 99.5, 223.5, 106.0], "text": "466"},
+   {"mm": [176.4, 88.3, 247.0, 94.1], "text": "Cl:J1PRESSORj liM HR"},
+   {"mm": [179.8, 47.9, 291.0, 67.4], "text": "'N8S ps"},
+   {"mm": [260.4, 43.4, 281.1, 54.2], "text": "BS"},
+   {"mm": [179.8, 8.9, 270.7, 28.3], "text": "'N8S"},
+   {"mm": [239.2, 22.2, 256.7, 29.0], "text": "tp"},
+   {"mm": [232.3, 15.3, 252.2, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 318 × 432 mm, 1471 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 25–284 mm across, 1–429 mm up",
+  "- **Outlines:** line 82 rings, 2,864 straight (9,772 mm) / 239 curved (432 mm)",
+  "- **Closed boxes:** 6; named: 'N8S; 'N8S",
+  "- **Words (OCR):** 18 in 15 lines: 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 'N8S · 466 · Cl:J1PRESSORj liM HR · 'N8S ps · BS"
+ ]
+}

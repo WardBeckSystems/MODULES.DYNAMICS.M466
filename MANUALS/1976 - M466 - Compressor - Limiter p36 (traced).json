@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 36,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p36.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "36", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 6.0, 297.1, 418.1],
+ "outlines": {
+  "line": {"rings": 8, "straight": {"n": 877, "mm": 2901.8}, "curved": {"n": 89, "mm": 138.6}},
+  "text": {"rings": 251, "straight": {"n": 2061, "mm": 2407.1}, "curved": {"n": 540, "mm": 845.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [12.3, 411.9, 128.9, 419.3], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [130.6, 362.7, 173.2, 370.9], "text": "PARIS LIST"},
+   {"mm": [81.4, 350.2, 148.3, 357.6], "text": "6 -106 COMPRESSOR"},
+   {"mm": [150.9, 349.3, 221.3, 357.7], "text": "CONTROL AMPLIFIER"},
+   {"mm": [28.1, 322.8, 119.2, 330.4], "text": "WBS rccommends thc use"},
+   {"mm": [122.4, 323.4, 131.5, 329.9], "text": "0 f"},
+   {"mm": [134.7, 321.7, 204.5, 330.1], "text": "replacement parts"},
+   {"mm": [207.7, 320.6, 237.9, 329.3], "text": "made by"},
+   {"mm": [240.7, 322.3, 253.7, 329.3], "text": "the"},
+   {"mm": [27.9, 315.6, 180.1, 323.8], "text": "specified manufacturers for continued"},
+   {"mm": [183.1, 314.4, 253.5, 322.7], "text": "optimum equipment"},
+   {"mm": [28.3, 308.7, 75.6, 316.9], "text": "performance:"},
+   {"mm": [134.3, 4.7, 172.1, 12.4], "text": "6-106-2-3"}
+  ]
+ },
+ "title_block": {
+  "mm": [6.2, 314.7, 115.7, 428.0],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "6 -106 COMPRESSOR", "WBS rccommends thc use", "specified manufacturers for continued"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–297 mm across, 6–418 mm up",
+  "- **Outlines:** line 8 rings, 877 straight (2,902 mm) / 89 curved (139 mm); text 251 rings, 2,061 straight (2,407 mm) / 540 curved (845 mm)",
+  "- **Words (OCR):** 26 in 13 lines: WARD-BECK SYSTEMS LTD · PARIS LIST · 6 -106 COMPRESSOR · CONTROL AMPLIFIER · WBS rccommends thc use · 0 f · replacement parts · made by · the · specified manufacturers for continued · optimum equipment · performance:",
+  "- **Title block:** (6, 315)–(116, 428) mm: WARD-BECK SYSTEMS LTD · 6 -106 COMPRESSOR · WBS rccommends thc use · specified manufacturers for continued"
+ ]
+}

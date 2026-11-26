@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.5, 3.6, 297.7, 416.3],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 692, "mm": 2550.5}, "curved": {"n": 64, "mm": 114.3}},
+  "text": {"rings": 85, "straight": {"n": 717, "mm": 927.3}, "curved": {"n": 162, "mm": 254.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [12.7, 410.0, 129.3, 418.2], "text": "WAAD-BECK SYSTEMS LTD"},
+   {"mm": [81.4, 271.4, 221.3, 280.8], "text": "6 - 106 COMPRESSOR CONTROL AMPLIFIER"},
+   {"mm": [142.5, 2.2, 163.7, 9.8], "text": "6-106"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–298 mm across, 4–416 mm up",
+  "- **Outlines:** line 4 rings, 692 straight (2,550 mm) / 64 curved (114 mm); text 85 rings, 717 straight (927 mm) / 162 curved (254 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BECK SYSTEMS LTD · 6 - 106 COMPRESSOR CONTROL AMPLIFIER · 6-106"
+ ]
+}

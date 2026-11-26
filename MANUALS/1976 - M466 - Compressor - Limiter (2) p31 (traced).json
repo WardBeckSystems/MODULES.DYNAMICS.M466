@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.6, 3.4, 297.7, 416.3],
+ "outlines": {
+  "line": {"rings": 15, "straight": {"n": 767, "mm": 2613.1}, "curved": {"n": 85, "mm": 139.8}},
+  "text": {"rings": 113, "straight": {"n": 725, "mm": 821.3}, "curved": {"n": 153, "mm": 231.7}},
+  "tb": {"rings": 21, "straight": {"n": 175, "mm": 238.2}, "curved": {"n": 40, "mm": 75.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [13.0, 409.8, 128.0, 415.3], "text": "WARD-BECK SYSTEMS LTO"},
+   {"mm": [91.5, 271.6, 222.2, 279.0], "text": "106 COHPRESSOR CONTROL AMPLIF IER"},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"},
+   {"mm": [156.3, 1.9, 163.9, 8.4], "text": "06"}
+  ]
+ },
+ "title_block": {"mm": [6.7, 401.2, 115.6, 424.0], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTO"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–298 mm across, 3–416 mm up",
+  "- **Outlines:** line 15 rings, 767 straight (2,613 mm) / 85 curved (140 mm); text 113 rings, 725 straight (821 mm) / 153 curved (232 mm); tb 21 rings, 175 straight (238 mm) / 40 curved (75.7 mm)",
+  "- **Words (OCR):** 13 in 7 lines: WARD-BECK SYSTEMS LTO · 106 COHPRESSOR CONTROL AMPLIF IER · ps · BS · tp · ht · 06",
+  "- **Title block:** (7, 401)–(116, 424) mm: WARD-BECK SYSTEMS LTO"
+ ]
+}

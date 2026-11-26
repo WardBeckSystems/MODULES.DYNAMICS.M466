@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p37.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.5, 2.8, 297.7, 416.9],
+ "outlines": {
+  "line": {"rings": 44, "straight": {"n": 1141, "mm": 2966.2}, "curved": {"n": 152, "mm": 250.3}},
+  "text": {"rings": 58, "straight": {"n": 384, "mm": 395.7}, "curved": {"n": 75, "mm": 114.2}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [34.7, 413.2, 37.6, 415.6], "w": 2.9, "h": 2.4, "from": "ring"}],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [12.1, 410.0, 103.4, 415.3], "text": "WAF'lD -BECK SYSTEM"},
+   {"mm": [113.1, 410.0, 121.3, 415.3], "text": "LT"},
+   {"mm": [119.8, 284.3, 199.7, 291.1], "text": "109 AM PLI FIER SERIES"},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"},
+   {"mm": [152.4, 0.9, 163.7, 7.6], "text": "109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–298 mm across, 3–417 mm up",
+  "- **Outlines:** line 44 rings, 1,141 straight (2,966 mm) / 152 curved (250 mm); text 58 rings, 384 straight (396 mm) / 75 curved (114 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 14 in 8 lines: WAF'lD -BECK SYSTEM · LT · 109 AM PLI FIER SERIES · ps · BS · tp · ht · 109"
+ ]
+}

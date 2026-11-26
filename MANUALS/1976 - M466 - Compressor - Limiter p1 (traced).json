@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1471, 2000],
+  "mm": [317.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [24.8, 0.6, 284.1, 429.4],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 1630, "mm": 5580.1}, "curved": {"n": 100, "mm": 174.1}},
+  "text": {"rings": 49, "straight": {"n": 1184, "mm": 4075.5}, "curved": {"n": 124, "mm": 240.6}},
+  "tb": {"rings": 1, "straight": {"n": 38, "mm": 123.3}, "curved": {"n": 9, "mm": 8.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [180.9, 399.2, 273.8, 423.4], "text": "WBS"},
+   {"mm": [179.0, 360.8, 273.1, 384.8], "text": "WBS"},
+   {"mm": [179.2, 321.9, 273.1, 345.2], "text": "WBS"},
+   {"mm": [179.8, 283.0, 273.8, 306.3], "text": "WBS"},
+   {"mm": [180.1, 242.9, 272.9, 267.1], "text": "WBS"},
+   {"mm": [180.9, 204.2, 273.8, 228.0], "text": "WBS"},
+   {"mm": [179.6, 164.3, 273.8, 189.5], "text": "WBS"},
+   {"mm": [179.2, 126.5, 273.5, 149.8], "text": "WBS"},
+   {"mm": [203.4, 99.7, 225.0, 107.9], "text": "M 466"},
+   {"mm": [175.7, 88.1, 248.1, 96.2], "text": "COMPRESSOR/LIMITER"},
+   {"mm": [180.1, 47.9, 274.2, 72.4], "text": "WBS"},
+   {"mm": [178.5, 8.9, 274.2, 33.1], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [172.1, 0.3, 280.5, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M 466", "COMPRESSOR/LIMITER", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 318 × 432 mm, 1471 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 25–284 mm across, 1–429 mm up",
+  "- **Outlines:** line 32 rings, 1,630 straight (5,580 mm) / 100 curved (174 mm); text 49 rings, 1,184 straight (4,076 mm) / 124 curved (241 mm); tb 1 rings, 38 straight (123 mm) / 9 curved (8.2 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 466 · COMPRESSOR/LIMITER · WBS · WBS",
+  "- **Title block:** (172, 0)–(280, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 466 · COMPRESSOR/LIMITER · WBS · WBS"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 36,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p36.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "36", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 5.8, 297.1, 418.0],
+ "outlines": {
+  "line": {"rings": 102, "straight": {"n": 1784, "mm": 3820.1}, "curved": {"n": 318, "mm": 514.5}},
+  "text": {"rings": 175, "straight": {"n": 1344, "mm": 1510.7}, "curved": {"n": 342, "mm": 525.9}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [123.3, 413.9, 126.3, 416.3], "w": 3.0, "h": 2.4, "from": "ring"}],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [11.2, 411.3, 128.9, 416.8], "text": "WARD -SECK SYSTEM LTD."},
+   {"mm": [131.3, 362.7, 161.9, 368.5], "text": "PARTS LI"},
+   {"mm": [106.7, 349.5, 207.5, 355.3], "text": "COMPRE SS OR CONT ROL AK PlIF"},
+   {"mm": [28.9, 321.7, 36.3, 328.6], "text": "WB"},
+   {"mm": [49.4, 321.7, 130.2, 328.6], "text": "e,ommends he use of"},
+   {"mm": [143.8, 321.7, 252.4, 328.6], "text": "pl ement parts ma de by the"},
+   {"mm": [33.5, 315.0, 138.6, 322.0], "text": "pecfffed manuf ac turers or"},
+   {"mm": [143.4, 315.0, 252.0, 322.0], "text": ",ontfnu ed opt imum equ fp me nt"},
+   {"mm": [29.4, 308.1, 76.2, 315.0], "text": "pe rfo mance."},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"},
+   {"mm": [136.9, 4.7, 147.9, 10.5], "text": "6-1"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–297 mm across, 6–418 mm up",
+  "- **Outlines:** line 102 rings, 1,784 straight (3,820 mm) / 318 curved (514 mm); text 175 rings, 1,344 straight (1,511 mm) / 342 curved (526 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 46 in 14 lines: WARD -SECK SYSTEM LTD. · PARTS LI · COMPRE SS OR CONT ROL AK PlIF · WB · e,ommends he use of · pl ement parts ma de by the · pecfffed manuf ac turers or · ,ontfnu ed opt imum equ fp me nt · pe rfo mance. · ps · BS · tp"
+ ]
+}

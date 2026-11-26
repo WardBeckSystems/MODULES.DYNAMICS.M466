@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.4, 5.2, 298.6, 418.0],
+ "outlines": {
+  "line": {"rings": 208, "straight": {"n": 3407, "mm": 7123.1}, "curved": {"n": 654, "mm": 920.8}},
+  "text": {"rings": 388, "straight": {"n": 2560, "mm": 2857.8}, "curved": {"n": 799, "mm": 1124.2}}
+ },
+ "circles": [
+  {"c": [53.5, 342.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [27.7, 133.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.5, 138.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [196.8, 273.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [152.0, 33.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [113.0, 341.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [35.4, 414.5, 38.5, 416.9], "w": 3.1, "h": 2.4, "from": "ring"},
+  {"mm": [124.8, 413.7, 127.8, 416.0], "w": 3.0, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [13.0, 411.3, 128.2, 416.8], "text": "WARO -BE CK YSTE MS LTO"},
+   {"mm": [116.4, 332.7, 120.0, 339.4], "text": "51"},
+   {"mm": [152.6, 138.4, 160.6, 142.5], "text": "J2:"},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–299 mm across, 5–418 mm up",
+  "- **Outlines:** line 208 rings, 3,407 straight (7,123 mm) / 654 curved (921 mm); text 388 rings, 2,560 straight (2,858 mm) / 799 curved (1,124 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 1.8 @ (53.5, 342.1), r 1.8 @ (27.7, 133.4), r 1.8 @ (153.5, 138.4), r 1.8 @ (196.8, 273.6)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 12 in 7 lines: WARO -BE CK YSTE MS LTO · 51 · J2: · ps · BS · tp · ht"
+ ]
+}

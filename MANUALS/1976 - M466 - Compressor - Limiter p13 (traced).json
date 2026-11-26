@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 4.5, 299.2, 417.1],
+ "outlines": {
+  "line": {"rings": 146, "straight": {"n": 2994, "mm": 6689.3}, "curved": {"n": 561, "mm": 756.3}},
+  "text": {"rings": 150, "straight": {"n": 1095, "mm": 1211.7}, "curved": {"n": 298, "mm": 449.7}}
+ },
+ "circles": [
+  {"c": [73.9, 338.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [231.1, 336.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [13.6, 410.6, 131.1, 418.2], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [137.3, 29.4, 156.7, 34.2], "text": "IndiO"},
+   {"mm": [145.7, 3.2, 159.6, 11.2], "text": "4-2"}
+  ]
+ },
+ "title_block": {"mm": [7.3, 402.7, 117.9, 427.0], "from": "title-block words (training set)", "text": ["WAAD-BECK SYSTEMS LTD_"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–299 mm across, 4–417 mm up",
+  "- **Outlines:** line 146 rings, 2,994 straight (6,689 mm) / 561 curved (756 mm); text 150 rings, 1,095 straight (1,212 mm) / 298 curved (450 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.8 @ (73.9, 338.9), r 1.8 @ (231.1, 336.2)",
+  "- **Words (OCR):** 5 in 3 lines: WAAD-BECK SYSTEMS LTD_ · IndiO · 4-2",
+  "- **Title block:** (7, 403)–(118, 427) mm: WAAD-BECK SYSTEMS LTD_"
+ ]
+}

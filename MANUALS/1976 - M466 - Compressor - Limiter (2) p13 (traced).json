@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 4.5, 299.2, 417.0],
+ "outlines": {
+  "line": {"rings": 112, "straight": {"n": 2820, "mm": 6627.2}, "curved": {"n": 451, "mm": 602.1}},
+  "text": {"rings": 195, "straight": {"n": 1313, "mm": 1369.1}, "curved": {"n": 383, "mm": 548.3}}
+ },
+ "circles": [{"c": [154.2, 32.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [27.2, 154.2, 30.2, 156.3], "w": 3.0, "h": 2.2, "from": "ring"},
+  {"mm": [27.2, 124.6, 30.2, 126.7], "w": 3.0, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [13.4, 410.2, 39.3, 415.5], "text": "WAI=lO"},
+   {"mm": [55.5, 410.2, 84.8, 415.5], "text": "CK SYS"},
+   {"mm": [114.2, 410.2, 128.7, 415.5], "text": "LTO"},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [36.9, 414.4], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–299 mm across, 4–417 mm up",
+  "- **Outlines:** line 112 rings, 2,820 straight (6,627 mm) / 451 curved (602 mm); text 195 rings, 1,313 straight (1,369 mm) / 383 curved (548 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (154.2, 32.2)",
+  "- **Closed boxes:** 2",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 8 in 7 lines: WAI=lO · CK SYS · LTO · ps · BS · tp · ht"
+ ]
+}

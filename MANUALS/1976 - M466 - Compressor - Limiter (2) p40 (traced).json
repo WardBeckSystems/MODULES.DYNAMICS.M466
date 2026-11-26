@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 40,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p40.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "40", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 3.3, 296.2, 417.6],
+ "outlines": {
+  "line": {"rings": 56, "straight": {"n": 1253, "mm": 3325.7}, "curved": {"n": 204, "mm": 302.7}},
+  "text": {"rings": 228, "straight": {"n": 1718, "mm": 1977.7}, "curved": {"n": 471, "mm": 741.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [11.2, 411.1, 126.3, 416.6], "text": "WARO·SECK SVSTEMS LTC"},
+   {"mm": [131.7, 361.8, 178.1, 368.8], "text": "DE SCRIPTION"},
+   {"mm": [107.1, 348.5, 201.2, 355.6], "text": "8-109 AMP LIF IER SERI ES"},
+   {"mm": [26.6, 321.3, 60.9, 328.2], "text": "inver ing"},
+   {"mm": [70.6, 320.8, 134.9, 328.5], "text": ".pli fi~ with EI"},
+   {"mm": [139.9, 320.8, 179.2, 328.5], "text": "~xt ern all~"},
+   {"mm": [196.9, 321.3, 216.1, 328.2], "text": "apped"},
+   {"mm": [25.3, 307.9, 65.0, 314.8], "text": "The ou tp ut"},
+   {"mm": [87.0, 307.9, 114.4, 314.8], "text": "ll ode"},
+   {"mm": [127.6, 307.9, 146.6, 314.8], "text": "of th"},
+   {"mm": [164.7, 307.9, 175.3, 314.8], "text": "J09"},
+   {"mm": [193.2, 307.9, 247.9, 314.8], "text": "ies is acti vel"},
+   {"mm": [200.6, 301.4, 211.4, 308.8], "text": "E6."},
+   {"mm": [25.7, 301.4, 73.4, 308.4], "text": "ba la nced and"},
+   {"mm": [91.1, 301.4, 134.3, 308.4], "text": "brought out"},
+   {"mm": [160.4, 301.4, 167.3, 308.4], "text": "ns"},
+   {"mm": [184.4, 301.4, 195.4, 308.4], "text": "and"},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–296 mm across, 3–418 mm up",
+  "- **Outlines:** line 56 rings, 1,253 straight (3,326 mm) / 204 curved (303 mm); text 228 rings, 1,718 straight (1,978 mm) / 471 curved (742 mm)",
+  "- **Words (OCR):** 47 in 21 lines: WARO·SECK SVSTEMS LTC · DE SCRIPTION · 8-109 AMP LIF IER SERI ES · inver ing · .pli fi~ with EI · ~xt ern all~ · apped · The ou tp ut · ll ode · of th · J09 · ies is acti vel"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter.pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/bf9032579dcc31cd-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.4, 5.3, 298.6, 418.2],
+ "outlines": {
+  "line": {"rings": 306, "straight": {"n": 3761, "mm": 7516.4}, "curved": {"n": 852, "mm": 1215.0}},
+  "text": {"rings": 283, "straight": {"n": 2124, "mm": 2316.3}, "curved": {"n": 654, "mm": 950.1}}
+ },
+ "circles": [
+  {"c": [191.9, 288.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [236.7, 322.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [113.0, 341.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [13.6, 411.5, 130.6, 419.9], "text": "WAAD-BECK SYSTEMS LTD"},
+   {"mm": [49.9, 332.3, 80.1, 356.0], "text": "00"},
+   {"mm": [133.4, 31.1, 154.6, 36.4], "text": "Ind[no"},
+   {"mm": [145.1, 4.3, 158.0, 11.3], "text": "4-1"}
+  ]
+ },
+ "dots": [{"c": [118.9, 365.3], "r": 0.9, "lines": 0}, {"c": [142.7, 255.4], "r": 0.9, "lines": 0}, {"c": [153.6, 138.5], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–299 mm across, 5–418 mm up",
+  "- **Outlines:** line 306 rings, 3,761 straight (7,516 mm) / 852 curved (1,215 mm); text 283 rings, 2,124 straight (2,316 mm) / 654 curved (950 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.8 @ (191.9, 288.2), r 1.8 @ (236.7, 322.0), r 1.8 @ (113.0, 341.8)",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 5 in 4 lines: WAAD-BECK SYSTEMS LTD · 00 · Ind[no · 4-1"
+ ]
+}

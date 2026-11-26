@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/2cae4ab06a2ffc41-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1437, 2000],
+  "mm": [310.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "54"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.2, 3.7, 297.1, 420.6],
+ "outlines": {
+  "line": {"rings": 92, "straight": {"n": 1980, "mm": 4143.8}, "curved": {"n": 331, "mm": 507.0}},
+  "text": {"rings": 84, "straight": {"n": 910, "mm": 1256.5}, "curved": {"n": 216, "mm": 342.0}},
+  "tb": {"rings": 15, "straight": {"n": 168, "mm": 186.4}, "curved": {"n": 34, "mm": 52.6}}
+ },
+ "circles": [
+  {"c": [114.8, 232.7], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [150.3, 232.6], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [28.7, 400.5, 148.1, 417.0], "text": "(VVBS] B41 Fe!lS"},
+   {"mm": [106.2, 411.3, 182.4, 419.0], "text": "WARD -BECK"},
+   {"mm": [250.4, 411.3, 262.5, 419.0], "text": "LT"},
+   {"mm": [149.8, 405.0, 172.9, 409.8], "text": "JW£N...E."},
+   {"mm": [220.6, 405.2, 244.6, 409.8], "text": "ClNTAJOID"},
+   {"mm": [105.6, 399.0, 124.1, 403.5], "text": "T'O-£X:"},
+   {"mm": [232.1, 399.0, 272.9, 403.3], "text": "..,tJJ43t~"},
+   {"mm": [124.8, 239.9, 176.0, 250.7], "text": "M466"},
+   {"mm": [107.1, 228.4, 194.3, 234.4], "text": "CO PRES SQR/Ll MI ER"},
+   {"mm": [264.7, 53.1, 284.1, 61.5], "text": "ps"},
+   {"mm": [254.1, 42.5, 274.4, 53.1], "text": "BS"},
+   {"mm": [233.4, 21.8, 250.4, 28.5], "text": "tp"},
+   {"mm": [226.7, 15.3, 246.1, 22.0], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [100.1, 402.7, 188.5, 427.6], "from": "title-block words (training set)", "text": ["WARD -BECK", "JW£N...E."]},
+ "dots": [{"c": [274.6, 412.1], "r": 0.9, "lines": 0}, {"c": [243.9, 407.1], "r": 1.2, "lines": 0}, {"c": [114.9, 232.8], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1437 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–297 mm across, 4–421 mm up",
+  "- **Outlines:** line 92 rings, 1,980 straight (4,144 mm) / 331 curved (507 mm); text 84 rings, 910 straight (1,256 mm) / 216 curved (342 mm); tb 15 rings, 168 straight (186 mm) / 34 curved (52.6 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.7 @ (114.8, 232.7), r 2.7 @ (150.3, 232.6)",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 20 in 13 lines: (VVBS] B41 Fe!lS · WARD -BECK · LT · JW£N...E. · ClNTAJOID · T'O-£X: · ..,tJJ43t~ · M466 · CO PRES SQR/Ll MI ER · ps · BS · tp",
+  "- **Title block:** (100, 403)–(188, 428) mm: WARD -BECK · JW£N...E."
+ ]
+}
