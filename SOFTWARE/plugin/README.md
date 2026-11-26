@@ -3,6 +3,8 @@
 The Ward-Beck M466 Compressor - Limiter (1976|9) as a **VST3 / CLAP plugin** with its front panel, and
 as the DSP the **Ward-Beck Audio Tap** runs as an insert.
 
+**Download** the VST3 / CLAP for Windows, macOS and Linux from this repo's [releases](https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466/releases/latest). All Ward-Beck plugins: [Ward-Beck Plugin Core](https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core#plugins).
+
 | Control | Range | What it does |
 |---|---|---|
 | INS | in / out | insert in; out is a hard bypass |
