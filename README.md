@@ -13,6 +13,67 @@ Ward-Beck Systems M466, 1976|9. Wiki page: [M466 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 129 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [37 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M466 - DOC - WBS sales 24.jpg](MANUALS/19xx%20-%20M466%20-%20DOC%20-%20WBS%20sales%2024.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity. Makeup gain of 16 dB maximum is ava i Table in compression mode only. |
+| **Frequency response** | ±0.25 dB from 20 Hz to 20 kHz |
+| **Noise** |  |
+| &nbsp;&nbsp;Sensitivity | 72 dB below -10 dBm At 0 +4 or +8 dBm sensitivity: 75 dB below selected sensitivity setting _ (Bandwidth 20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.5% THD from 30 Hz to 15 kHz at +28 dBm output or Tess with 10 dB of compression and/or Limiting Less than 0.1% at compressor or imiter threshold _ Measured with sensitivity switch at +8 and release controls at maximum (i.e_ fully clock wise) |
+| **Source impedance** | 600 ohms maximum, ba Tanced/unba lanced |
+| **Input impedance** | 30k ohms +10% balanced |
+| **Input level** | -10 dBm to +8 dBm nomina ] +30 dBm maximum with sensitivity set at 0 |
+| **Output impedance** | Load Impedance: Less than 100 ohms +10% ba lanced_ 600 ohms balanced |
+| **Output level** | -10 dBm to +8 dBm nomina ] +28 dBm maximum, |
+| **Compression ratio** | Selectable, 1.5;1, 2:1, 3: ], 5:1 (in dB) |
+| **Limiting ratio** | 50:1 (in dB) |
+| **Compression ratio** | Attack Time: Greater than 30 dB |
+| **Compressor** | 10 MS, internally adjustable Limiter: 50 us, |
+
+## Circuit description
+
+From [1976 - M466 - Compressor - Limiter.pdf](MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter.pdf) pages 7-12 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Input The input signa] is applied to pins and 2 of the edge connector The signa ] is routed directly to the norma ]Iy closed contacts of the INSERT switch SW7 Additionally the signa 1 i$ fed to input amplifiers 21 and 22 by means of bridging input. Depending on the position of the INSERT switch, the output of the M466 i$ originated either from the input or from the output of the unit In this way it i5 possible to bypass the entire compressor/limitcr circuit While still applying the input signa] to the unit therefore permitting adjustment and set-up to be made prior to insertion of the unit into the s igna ] path. Electronic_Attenuator The input amplifiers are followed by an attenuator circuit comprising 23 24 25 as well as Q1, Q2 Q3 and Q4 In principle, the circuit operates a $ voltage multiplier uSing the input signa 1 and the cuntro] voltage generated in the contro] amplifier as its two inputs Transistors Q1 to Q4 are thermal TTy coupled to provide good circuit stability over Large operating temperature range THRESHOLD Controls The output of the voltage attenuator circuit is coupled via C31 to the COMPRESSOR THRESHOLD contro] SW4 to the MAKE-UP-GAIN contro] R72 and Lo the LIMITER THRESHOLD contro] SW5 via the COMPRESSOR INSERT switch Sw2c_ SENSITIVITY Switch The SENSITIVITY contro] enables the unit to operate with optimum and constant distortion and noise specifications with varying system insert Levels VU Meter Amplifier The VU meter amplifier (part of 29) derives its input from constant level point in the system As result the 0 VU reading will correspond to the calibrated positions of the SENSITIVITY switch SWI
+
+Compressor_Amplifier and Rectifier The output from the COMPRESSOR THRESHOLD attenuator Sw4 feeds the signa ] via the DE-ESS switch SV6 and associated filter to amplifier 26 A full-wave rectifier consisting of CRS and CRG follows 26 and in turn generates positive contro] voltage to operate the compressor function of the unit R5S determines thc attack time and is factory sct for 10 milliseconds. However the resistor maybe varied from 2k ohms to 47k ohms to achieve other attack time characteristics DE_ESS Control The DE-ESS circuit consists of high pass filter comprising c21 RS8 and R59 With the DE-ESS function activated, only frequencies from kllz to 6 kHz and above will operate the compressor In addition SW6A reduces the release time of the compressor to approxiia tely half when operated in the DE-ESS mode Both these measures combined cause the unit to be sensitive onTy to the high frequency components of sibilant voice material Limiter Amplifier and Rectifier The output from the LIMITER THRESHOLD attenuator Sw5 feeds amplifiers 11 and 28, which in turn are followed by the full wave rectifier configuration consisting 0 [ CRTO and CRII A negative contro] voltage is thus generated and supplied to the contro] amplifier The attack time is set at the factory to 50 microseconds and can be altered by changing the value of R1og When the M466 is operating a $ Timiter only, its maxiMUM output in dBm 15 dctcrmined by the setting of the SENSTT[VITY switch added algebraically to the setting of the LIMITER THRESHOLD contro] Gain Reduction Meter_Amplifier The gain reduction meter amplifier (part of 79, pins 12, 13 and 14) monitors the attenuator control voltage generated in the 6 -106 contro| amplifier which appears at pin TELO. This voltage cancels oul pre-sel bias adjusted by RI19 With no signa present thc bias is adjusted to produce 0 VU reading on an external VU meter (approx. 0.6v)
+
+Limit Indicators Two voltage comparators (part of 29 pins 1,2,3,5,6 and 7) compare the Limit monitor voltage at pin 1ET3 with two fixed voltages at pins 3 and 5 of 29 The unit is calibrated such Lhat with 6 dB peak Timi the LED {yeitowg CR!5 (green) Will Similarly CR16 Tight up will iuminate With 12 dK Limiting. peak Power Supply Decoupl ing An active power supply decoupling network consisting of Q6 thru Q11 provides high degree of isolation between the M466 and the +25 volt supply rails Transistors Q7 and 010 serve a$ monitors current and WiT] imit the current flowing through the transistors pass Q6 and 09 to approximately 150 ma_ This feature is designed to prevent excessive Power supply demands on the Maunder reof the conso ]e system in the event of component failure within the M466 _ 210 in conjunction with Q12 and 013 forms +16 voll high stability regulator used to supply the required voltages to the control amplifier 6 -106
+
+OPERATINGINSTRUCTIOnS M466 COMPRESSORLLIMITER The M466 i5 designed to operate as compressor and/or Timiter independent of onc another a5 far a$ threshold, attack time and release times are concerned
+
+**COMPRESSOR**
+
+As compressor thc unit i$ capable of compression over 40 dB input range from 20 dB below to 20 dB above the nomina] SENSITIVITY setting Four gain reduction SLOPES are ava i ablc, namely 1.5:1, 2:1 3:1 and 5:1 to iluslratc using 2:1 compression slope 10 dB change in input level will result in 5 dB change in output level Typically compressor is operated with 6 to 10 dB of compression This places the nominal operating point on the compression s Tope In this manner, as the average input Teve] increases further, the increase in output eve | is proportionally reduced Conversely, as the average input level decreases the decrease in output level 15 aso proportionally reduced The choice of any given gain reduction slope in effect determines the dynamic range of the program ma teri] The average level Tos $ resulting from thc compress ion action can be recovered at the output of the unit 45 ing the MAKE-UP_ GA [ N control If headroom in excess of 30 dB 1$ required in particular mixing channel then thc SENSITIVITY should beset to higher level such a5 0 &quot; setting instead of &quot;_10&quot; Likewise the compressor and 1imiter THRESHOLD controls Will have to be interpreted accordingly This Will 455ure optimum performance characteristics from the compressor control circuitry _ The DE-ESS function is designed to reduce the level of voicegenerated sibilance predominant in the kHz to 6 kHz range. to achieve optimum performance the compressor should be operated similar to peak Timiter such that gain reduction Wil] occur only at high-frequency peak Levels The DE-ESS contro] is adjustable between kHz and 6 kHz and determines the frequency above which the circuit Wi11 operate
+
+**OPERATING_INSTRUCIIONS**
+
+A stereo tie connection (pin 10) provision is made to connect the compressor control circuitry of severa] compressors together for the purpose of stereo or mu] ti-channel operation OnTy the compressor contro] circuitry of two or more units can thus be interconnected and Ehe unit producing the highest control voltage Willa 5 5 ume contro] of a 11 interconnected units In order to produce similar compression characteristics, SLOPE and RELEASE controls of all units should beset to identical values Note that in contrast to the compressor action, the Timiter action of the individual units re not interconnected and remain independent of each other. For certain production applications it maybe desirable to utilize the compressor (usually operating on the 3: 1 or 5: 1 slope) as Timiter in order 10 slightly reduce infrequent program peaks This particular mode of operation requires very subtle onset of compress ion to achieve this characteristic the compressor control circuitry Will have to be recalibra ted a5 outlined in the ADJUSTMENT PROCEDURE, step 24 _ LIMITER As Timiter and compressor circuits are entirely independent from each other THRESHOLD points and RELEASE limes maybe adjusted individually for compressor and Timiter functions. Thc LIMITER THRESHOLD contro] is adjustable in 2 dB steps up to 20 dB above the nomina 1 SENSITIVITY setting. With 50:1 compression slope the setting 0 [ the THRESHOLD control determines the upper headroom Limit of the audio signa| being passed through the unit. When the Timiter i5 operating, the MAKE-UP-GAIN control a $ described earlier is disabled. The amount of peak Limiting action taking effect 1$ shown on two LED indicators The first LED (green) Tights up at 6 dB and the second one (yellow) a L 12 dB Limiting. If 12 dB of peak Limiting persists the Teve] in the channel being controlled i$ abnormally high and should be adjusted accordingly, either by changing SENSITIVITY or FADER settings
+
+1 ] 0 3 3 { 3 5 3 8 5 1 5 6 5 L 1 1 1 8 3 1 1 5 1 9 5 1 39 6; 1 5; 2 1 { 2 7 5 { 1 d:
+
+11 1 1 1 3
+
+; 2 7 3 5 1
+
+5 1 0
+
+W@P Indino
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
