@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "M466_Compressor_Limiter-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/M466_Compressor_Limiter-eagle-import.kicad_sym")(options "")(descr ""))
+)

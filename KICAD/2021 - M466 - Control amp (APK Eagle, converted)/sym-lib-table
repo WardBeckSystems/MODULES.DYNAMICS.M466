@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "M466_Control_Amp-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/M466_Control_Amp-eagle-import.kicad_sym")(options "")(descr ""))
+)
