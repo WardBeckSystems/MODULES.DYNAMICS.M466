@@ -123,24 +123,27 @@ Not on Google Drive yet: `M466 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 9 of 11 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-15: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT + (in)
+- disagree P1-16: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT - (in)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | INPUT | in |  | high |
-| 2 | INPUT | in |  | high |
-| 3 | SHIELD GND | ground |  | high |
-| 9 | COMP TIE   1 | control | B3 - | high |
-| 10 | STEREO TIE | control |  | high |
-| 11 | EXTERNAL | other |  | high |
-| 12 | EXTERNAL | other |  | high |
-| 13 | VU METER | out |  | high |
-| 15 | OUTPUT | out |  | high |
-| 16 | OUTPUT | out |  | high |
+| 1 | INPUT | in | INPUT | high |
+| 2 | INPUT | in | INPUT | high |
+| 3 | INPUT SHIELD GND | shield | INPUT shield | high |
+| 10 | STEREO TIE | control_in | STEREO TIE | high |
+| 12 | EXT VU METER | out | EXT VU METER | high |
+| 13 | EXT VU METER | out | EXT VU METER | high |
+| 15 | OUTPUT | out | OUTPUT | high |
+| 16 | OUTPUT | out | OUTPUT | high |
 | 19 | -25 V | power |  | high |
-| 20 | ±COMMON | ground |  | high |
+| 20 | COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| 22 | CHASSIS GND | ground |  | high |
+| 22 | CHASSIS GROUND | ground |  | high |
 
 ## Manuals and documents
 

@@ -3,189 +3,322 @@
  "connector": "RTO-144",
  "type": "DYNAMICS",
  "series": "L-EFFECT",
- "contacts": "22 contacts",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "1-22 single row",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M466/M466.rto144.json",
+  "sheet_agrees": "9 of 11"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
    "signal": "INPUT",
    "kind": "in",
-   "pair": null,
+   "port": "INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-IN-LEFT +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
    "signal": "INPUT",
    "kind": "in",
-   "pair": null,
+   "port": "INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-IN-LEFT -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "3",
-   "signal": "SHIELD GND",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD GND",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "9",
-   "signal": "COMP TIE   1",
-   "kind": "control",
-   "pair": "B3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M466/M466.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
    "signal": "STEREO TIE",
-   "kind": "control",
-   "pair": null,
+   "kind": "control_in",
+   "port": "STEREO TIE",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "COMP TIE - 1 +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
-   "pin": "11",
-   "signal": "EXTERNAL",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
-  },
-  {
+   "connector": "P1",
    "pin": "12",
-   "signal": "EXTERNAL",
-   "kind": "other",
-   "pair": null,
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT VU METER",
+   "kind": "out",
+   "port": "EXT VU METER",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VU Meter +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "13",
-   "signal": "VU METER",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT VU METER",
    "kind": "out",
-   "pair": null,
+   "port": "EXT VU METER",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VU Meter -",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
    "signal": "OUTPUT",
    "kind": "out",
-   "pair": null,
+   "port": "OUTPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-OUT-LEFT +",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
    "signal": "OUTPUT",
    "kind": "out",
-   "pair": null,
+   "port": "OUTPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-OUT-LEFT -",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
-   "signal": "±COMMON",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "22",
-   "signal": "CHASSIS GND",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
-   "page": 50
+   "read_from": [
+    "M466/PINOUTS/1976 - M466 - P48 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "CHASSIS",
+    "kind": "ground",
+    "agrees": true
+   }
   }
  ],
- "straps": [],
- "power": [
+ "ports": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "19",
-   "ground": "20",
-   "link": 2
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-2",
+    "shield": "P1-3"
+   }
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "21",
-   "ground": "20",
-   "link": 1
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-15",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "EXT VU METER",
+   "dir": "out",
+   "pins": {
+    "a": "P1-12",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "STEREO TIE",
+   "dir": "bidir",
+   "pins": {
+    "tie": "P1-10"
+   }
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M466/M466.rto144.json",
-  "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf"
+ "inserts": [],
+ "straps": [],
+ "conflicts": [
+  {
+   "pin": "P1-15",
+   "kept": "OUTPUT (out)",
+   "other": "Dynamics-OUT-LEFT + (in)",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "pin": "P1-16",
+   "kept": "OUTPUT (out)",
+   "other": "Dynamics-OUT-LEFT - (in)",
+   "from": "RTO-144 sheet"
+  }
+ ],
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-15",
+   "detail": "kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT + (in)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-16",
+   "detail": "kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT - (in)"
+  }
  ]
 }
