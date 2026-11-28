@@ -4,13 +4,13 @@ Ward-Beck Systems M466, 1976|9. Wiki page: [M466 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 60 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 395 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 38 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 3 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 20 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 59 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 394 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 37 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 19 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 121 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -98,6 +98,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZ3NzRW5oVV9RT0E/view?resourcekey=0-tZ0bOubKw5WgzN4_EDP2RQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZ3NzRW5oVV9RT0E&resourcekey=0-tZ0bOubKw5WgzN4_EDP2RQ" width="240" alt="1976 - M466 - P45 - Front Panel.jpg"></a><br><sub>1976|9 · P45 - Front Panel · <a href="MECHANICAL/1976%20-%20M466%20-%20P45%20-%20Front%20Panel%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/15CvgIPDy1-ruErR6pIajZ2uR9gCGxHFY/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=15CvgIPDy1-ruErR6pIajZ2uR9gCGxHFY" width="240" alt="19xx - M466 - DOC - 466-03-007 - EQUIV ALICN SCEEN WITU COVER USING CIPCLES ETTERING.jpg"></a><br><sub>19xx - M466 - DOC - 466-03-007 - EQUIV ALICN SCEEN WITU COVER USING CIPCLES ETTERING · <a href="MECHANICAL/19xx%20-%20M466%20-%20DOC%20-%20466-03-007%20-%20EQUIV%20ALICN%20SCEEN%20WITU%20COVER%20USING%20CIPCLES%20ETTERING%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc3lTdWxJLTJIU1k/view?resourcekey=0-2oO-pI_CgX8PUcIcFwnPUg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc3lTdWxJLTJIU1k&resourcekey=0-2oO-pI_CgX8PUcIcFwnPUg" width="240" alt="19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN.jpg"></a><br><sub>19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN · <a href="MECHANICAL/19xx%20-%20M466%20-%20DOC%20-%20466-04-002%20-%20ARE%20SAD%20LED%20NER%20ENE%20AKN%20INSERT%20SWITCN%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M466.stl`](MECHANICAL/M466.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M466)
+
+- **Size:** 57 × 213.31 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 16 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M466 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M466.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -107,8 +116,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTkdNRF9LQTVfWEE/view?resourcekey=0-wsEqCFW40LwaTvokcMxNTQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTkdNRF9LQTVfWEE&resourcekey=0-wsEqCFW40LwaTvokcMxNTQ" width="240" alt="1976 - M466 - P46 - Schematic.jpg"></a><br><sub>1976|9 · P46 - Schematic · <a href="SCHEMATICS/1976%20-%20M466%20-%20P46%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1976 - 466-02-003 - COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1.jpg`, `1976 - 466-02-003 - M466M COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1.png`, `1976 - 6-106-02-001 - 6-106 COMPRESSOR CONTROL AMPLIFIER SCHEMATIC - DRN MRW - ISS 5.jpg`, `1976 - 6-106-06-001 - 6-106 COMPRESSOR CONTROL AMPLIFIER COMPONENT LAYOUT - DRN MRW - ISS 5.jpg`, `1977 - 466-01-001 - M466C LIMITER - COMPRESSOR MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.jpg`, `1978 - 8-109-02-005 - 8-109D OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1979 - 466-02-004 - M466N INSERT METER MODULE SCHEMATIC - DRN EH FEB-79 - ENG ELJ - ISS 1.png`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -116,8 +123,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeXNwOWlDRUR5M1E/view?resourcekey=0-YXwOAzFdnDPKS6iI6YJrAg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeXNwOWlDRUR5M1E&resourcekey=0-YXwOAzFdnDPKS6iI6YJrAg" width="240" alt="1976 - M466 - P48 - Pin Outs.jpg"></a><br><sub>1976|9 · P48 - Pin Outs · <a href="PINOUTS/1976%20-%20M466%20-%20P48%20-%20Pin%20Outs%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M466 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -173,8 +178,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb1poX29TNXlkWVU/view?resourcekey=0-qwo8WSzP1ZVrOb0n0X_KIg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb1poX29TNXlkWVU&resourcekey=0-qwo8WSzP1ZVrOb0n0X_KIg" width="240" alt="19xx - M466 - DOC - rack - ffd1_3.jpg"></a><br><sub>19xx - M466 - DOC - rack - ffd1_3</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKS0lpS2R6V3Z3LWs/view?resourcekey=0-xMZcRSYWzK87OAvmtkIYDg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKS0lpS2R6V3Z3LWs&resourcekey=0-xMZcRSYWzK87OAvmtkIYDg" width="240" alt="19xx - M466 - DOC - wbskit2.jpg"></a><br><sub>19xx - M466 - DOC - wbskit2</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M466 - P14 - 5-1(1).jpg`, `M466 - P14 - 5-1.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -198,12 +201,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [2021 - M466 and M462B - Output Amplifier (APK Eagle, converted)](KICAD/2021%20-%20M466%20and%20M462B%20-%20Output%20Amplifier%20(APK%20Eagle%2C%20converted))
 - [M466 - P45 - Functional Diagram.kicad_sch](KICAD/M466%20-%20P45%20-%20Functional%20Diagram.kicad_sch)
 - [M466.kicad_sym](KICAD/M466.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
