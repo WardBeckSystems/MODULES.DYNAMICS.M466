@@ -1,5 +1,5 @@
 # 1978 - 8-109-02-005 - 8-109D OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1978 (title block date)

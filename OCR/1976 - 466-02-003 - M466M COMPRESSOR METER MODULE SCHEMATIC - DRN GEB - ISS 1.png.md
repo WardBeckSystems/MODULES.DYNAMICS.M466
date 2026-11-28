@@ -1,5 +1,5 @@
 # 1976 - 466-02-003 - M466M COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1.png
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1976 (title block date)

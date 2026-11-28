@@ -1,5 +1,5 @@
 # 1979 - 466-02-004 - M466N INSERT METER MODULE SCHEMATIC - DRN EH FEB-79 - ENG ELJ - ISS 1.png
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1979 (title block date)

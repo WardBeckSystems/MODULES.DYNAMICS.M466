@@ -1,5 +1,5 @@
 # 1976 - M466 - 8-109-06-005 - OUT PUT AMPLIFIER COMPONENT LAYOUT.jpg
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

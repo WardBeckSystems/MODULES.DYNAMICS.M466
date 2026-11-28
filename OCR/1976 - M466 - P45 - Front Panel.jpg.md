@@ -1,5 +1,5 @@
 # 1976 - M466 - P45 - Front Panel.jpg
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

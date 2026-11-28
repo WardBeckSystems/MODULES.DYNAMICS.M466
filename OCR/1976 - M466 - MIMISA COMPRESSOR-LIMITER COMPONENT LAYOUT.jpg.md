@@ -1,5 +1,5 @@
 # 1976 - M466 - MIMISA COMPRESSOR-LIMITER COMPONENT LAYOUT.jpg
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1976 (found in this file: "DATE AUG 76")

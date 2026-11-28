@@ -1,5 +1,5 @@
 # 1976 - 6-106-02-001 - 6-106 COMPRESSOR CONTROL AMPLIFIER SCHEMATIC - DRN MRW - ISS 5.jpg
-Wiki page: [M466](../../../../PAGES/M466.md)
+Wiki page: [M466](../)
 
 
 - **Year:** 1976 (title block date)
